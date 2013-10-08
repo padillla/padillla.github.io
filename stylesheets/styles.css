@@ -411,6 +411,11 @@ footer {
     color:#444;
   }
 }
-/*#map{*/
+#map{
 
-/*position: relative; background-color: rgb(229, 227, 223); overflow: hidden;}*/
+height: 300px;
+width: 300px;
+position: relative; 
+background-color: rgb(229, 227, 223);
+overflow: hidden;
+}
