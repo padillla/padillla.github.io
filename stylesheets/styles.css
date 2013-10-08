@@ -362,6 +362,12 @@ footer {
     right:130px;
     top:84px;
   }
+  #map{
+
+height: 0 auto;
+width: 0 auto;
+
+}
 }
 
 @media print, screen and (max-width: 720px) {
@@ -386,6 +392,12 @@ footer {
   header ul, header p.view {
     position:static;
   }
+  #map{
+
+height: 600px;
+width: 600px;
+
+}
 }
 
 @media print, screen and (max-width: 480px) {
@@ -401,6 +413,11 @@ footer {
 	footer a{
 		display:block;
 	}
+	#map{
+	height: 300px;
+	width: 300px;
+
+}
 
 }
 
@@ -410,12 +427,16 @@ footer {
     font-size:12pt;
     color:#444;
   }
+  #map{
+
+height: 600px;
+width: 600px;
+
+}
 }
 #map{
 
 height: 300px;
 width: 300px;
-position: relative; 
-background-color: rgb(229, 227, 223);
-overflow: hidden;
+
 }
