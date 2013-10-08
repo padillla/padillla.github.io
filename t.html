@@ -7,7 +7,9 @@
 
     <link rel="stylesheet" href="stylesheets/styles.css">
     <link rel="stylesheet" href="stylesheets/pygment_trac.css">
-    <script src="javascripts/scale.fix.js"></script>
+    <script type="text/javascript" src="https://raw.github.com/padillla/gmaps/master/gmaps.js" ></script>
+    <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.6.4/jquery.min.js"></script>
+    <script type="text/javascript" src="javascripts/scale.fix.js"></script>
     <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
     <!--[if lt IE 9]>
     <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
@@ -29,13 +31,22 @@
   <section>
   <p>
 
-         I love calling programs machines, they twist data destroy it and the rebuild it in perfectly human readable suff for our delight.
+         I love calling programs machines, they twist data destroy it and rebuild it in perfectly human readable suff for our delight.
        </br>
          This machine will be neat.</p>
+         <br />
+         
+         <iframe src="#"></iframe>
 
 
 
      </section>
+     
+     <div id="map"><div>
+     
+     
+     
+     </div></div>
       <footer>
         <p><small>Hosted on <a href="https://pages.github.com">GitHub Pages</a></p>
       </footer>
@@ -51,5 +62,30 @@
             pageTracker._trackPageview();
             } catch(err) {}
           </script>
+          <script type="text/javascript">
+    var map;
+    $(document).ready(function(){
+      var map = new GMaps({
+        el: '#map',
+        lat: -12.043333,
+        lng: -77.028333
+      });
+
+      GMaps.geolocate({
+        success: function(position){
+          map.setCenter(position.coords.latitude, position.coords.longitude);
+        },
+        error: function(error){
+          alert('Geolocation failed: '+error.message);
+        },
+        not_supported: function(){
+          alert("Your browser does not support geolocation");
+        },
+        always: function(){
+          alert("Done!");
+        }
+      });
+    });
+  </script>
   </body>
 </html>
