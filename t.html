@@ -78,14 +78,7 @@
         lat: position.coords.latitude,
         lng: position.coords.longitude
       });
-      map.addMarker({
-        lat: position.coords.latitude,
-        lng: position.coords.longitude,
-        title: 'Pedro',
-        infoWindow: {
-          content: '<p>This is Pedro</p>'
-        }
-      });
+      
 
       GMaps.geolocate({
         success: function(position){
@@ -99,6 +92,14 @@
         },
         always: function(){
           alert("Done!");
+        }
+      });
+      map.addMarker({
+        lat: position.coords.latitude,
+        lng: position.coords.longitude,
+        title: 'You are here',
+        infoWindow: {
+          content: '<p>This is Pedro</p>'
         }
       });
       
