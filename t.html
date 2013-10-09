@@ -75,8 +75,16 @@
     $(document).ready(function(){
       var map = new GMaps({
         div: '#map',
-        lat: -12.043333,
-        lng: -77.028333
+        lat: position.coords.latitude,
+        lng: position.coords.longitude
+      });
+      map.addMarker({
+        lat: position.coords.latitude,
+        lng: position.coords.longitude,
+        title: 'Pedro',
+        infoWindow: {
+          content: '<p>This is Pedro</p>'
+        }
       });
 
       GMaps.geolocate({
@@ -94,14 +102,7 @@
         }
       });
       
-      map.addMarker({
-        lat: position.coords.latitude,
-        lng: position.coords.longitude,
-        title: 'Pedro',
-        infoWindow: {
-          content: '<p>This is Pedro</p>'
-        }
-      });
+      
     });
   </script>
   </body>
