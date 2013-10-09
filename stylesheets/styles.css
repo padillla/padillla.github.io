@@ -328,8 +328,8 @@ footer {
 /* Map without Media queries*/
  #map{
 
-height: 600px;
-width: 600px;
+height: 500px;
+width: 500px;
 
 }
 
@@ -373,7 +373,7 @@ width: 600px;
   #map{
 
 height: 500px;
-width: 800px;
+width: 700px;
 
 }
 }
@@ -402,8 +402,8 @@ width: 800px;
   }
   #map{
 
-height: 600px;
-width: 600px;
+height: 500px;
+width: 500px;
 
 }
 }
@@ -424,6 +424,7 @@ width: 600px;
 	#map{
 	height: 300px;
 	width: 300px;
+	clear:both;
 
 }
 
