@@ -71,6 +71,9 @@
           
           
    <script type="text/javascript">
+   function init() {
+    navigator.geolocation.getCurrentPosition();
+};
     var map;
     $(document).ready(function(position){
       var map = new GMaps({
