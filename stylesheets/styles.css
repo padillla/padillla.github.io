@@ -332,6 +332,39 @@ height: 500px;
 width: 600px;
 
 }
+.notificar {
+    background-color: #59AADA;
+    border-radius: 6px;
+    border: 1px solid #60B4E5;
+    color: #FFFFFF;
+    display: block;
+    font-size: 30px;
+    font-weight: bold;
+    letter-spacing: -2px;
+    margin: 60px auto;
+    padding: 20px;
+    text-align: center;
+    text-shadow: 1px 1px 0 #145982;
+    width: 300px;
+    cursor: pointer;
+}
+
+.notificar:hover {
+    background-color: #4a94bf;
+}
+#notificacion {
+    background-color: #F2F2F2;
+    /*background-repeat: no-repeat;*/
+    font-family: Helvetica;
+    font-size: 20px;
+    line-height: 30px;
+    position: absolute;
+    text-align: center;         
+    width: 30%;
+    left: 35%; center
+    top: -30px; hide
+    z-index: 1;
+}
 
 @media print, screen and (max-width: 960px) {
 
