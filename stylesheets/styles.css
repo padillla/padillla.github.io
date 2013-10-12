@@ -340,14 +340,14 @@ width: 600px;
     background-color: #F0F0F0;
     height: 30px;
     /*background-repeat: no-repeat;*/
-    font-size: 12px;
+    font-size: 10px;
     line-height: 30px;
-    position: absolute;
+    position: fixed;
     text-align: center;         
-    width: 30%;
+    width: 40%;
     left: 35%; /*center*/
     top: -30px; /*hide*/
-    z-index: 1;
+    /*z-index: 1;*/
 }
 
 @media print, screen and (max-width: 960px) {
@@ -441,8 +441,14 @@ width: 500px;
 	#map{
 	height: 300px;
 	width: 300px;
-	
-
+}
+#notificacion {
+    height: 20px;
+    font-size: 8px;
+    line-height: 20px;
+    width: 50%;
+    left: 25%; 
+   
 }
 
 }
