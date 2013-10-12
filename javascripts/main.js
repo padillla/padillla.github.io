@@ -29,7 +29,7 @@ $(document).ready(function() {
 			$notificacion.stop().animate({
 				top: '-30px'
 			});
-		}, 3000);
+		}, 30000);
 	};
 
 	
