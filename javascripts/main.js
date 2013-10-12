@@ -14,7 +14,7 @@ $(document).ready(function() {
 	$('body').append('<div id="notificacion"><span></span></div>');
 
 	var notifMsg;
-	console.log();
+	console.log(notifMsg);
 
 	var jumpNotification = function() {
 		//var $boton = $(this);
@@ -29,7 +29,7 @@ $(document).ready(function() {
 			$notificacion.stop().animate({
 				top: '-30px'
 			});
-		}, 30000);
+		}, 10000);
 	};
 
 	
@@ -69,10 +69,10 @@ $(document).ready(function() {
 				console.log(notifMsg);
 			},
 			always: function() {
-				notifMsg = "Done!";
+				jumpNotification($('.notificar'));
 				console.log(notifMsg);
 			}
 		});
 	});
-jumpNotification($('.notificar'));
+
 });
