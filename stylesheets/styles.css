@@ -311,7 +311,11 @@ a.buttons:hover {
 section {
   width:600px;
   float:right;
+<<<<<<< HEAD
   padding:50px 50px 0px 0px;
+=======
+  padding-bottom:50px;
+>>>>>>> parent of 68bac84... \\\\\\\\\\jekyll
 }
 
 
