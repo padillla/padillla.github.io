@@ -1,5 +1,5 @@
 require 'sass-globbing'
-require 'sprockets/railtie'
+
 # Require any additional compass plugins here.
 project_type = :stand_alone
 
