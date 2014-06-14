@@ -1,0 +1,16 @@
+---
+author: rodolfopr338
+comments: true
+date: 2012-10-28 00:30:00+00:00
+layout: post
+published: false
+slug: '176'
+title: Nana(2)
+wordpress_id: 176
+post_format:
+- Aside
+---
+
+Aca voy a escribirte algo pronto.
+
+Si aun te importo, esperame.

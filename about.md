@@ -1,30 +1,34 @@
 ---
 layout: page
-title: About
+title: Rodolfo Padilla
 ---
 
 <p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
+  A guy from Costa Rica, the most beautiful place on earth.
+
+  Currently living in Cartago.
 </p>
+Working as a tech support agent, fixing computers and such.
 
-In the novel, *The Strange Case of Dr. Jeykll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
+I like to be constanly learning, web development mainly these days. I believe I am at the state to make a living by doing it and turn some ideas into reality. I also study more computer stuff at [UNED](http://www.uned.ac.cr/).
 
-There are currently two themes built on Poole:
+I can currently code in HTML, CSS and Javascript.
+My skills in those areas are like the ones you can expect from someone who likes eating books in the matter, and hands dirty.
 
-* [Hyde](http://hyde.getpoole.com)
-* [Lanyon](http://lanyon.getpoole.com)
+I try to keep my reading tracked on [goodreads](https://www.goodreads.com/padillla).
 
-Learn more and contribute on [GitHub](https://github.com/poole).
 
-## Setup
+Please have a look at my [Github](https://github.com/padillla) and laugh at my code if you find it laughable. Or hire me.
+ 
+I am also an electrician, I have vast experience fixing things, pretty much any device powered by electricity: 
 
-Some fun facts about the setup of this project include:
+* Computers
+* Smartphones
+* Home appliances 
+* Industrial machinery and tools
 
-* Built for [Jekyll](http://jekyllrb.com)
-* Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-* Coded with [Sublime Text 2](http://sublimetext.com), an amazing code editor
-* Designed and developed while listening to music like [Blood Bros Trilogy](https://soundcloud.com/maddecent/sets/blood-bros-series)
+I am also into physics, solar energy and other alternative sources of energy.
 
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
 
-Thanks for reading!
+
+# Thanks for reading!
