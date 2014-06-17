@@ -10,7 +10,7 @@ tags:
 - Blog
 - yo
 ---
-
+<!-- more -->
 [![](http://sinjeta.files.wordpress.com/2008/10/measomo2.jpg)](http://sinjeta.files.wordpress.com/2008/10/measomo2.jpg)
 
 Tengo una nueva responsabilidad
@@ -21,5 +21,3 @@ Me va a durar. Porque soy cabeza dura y quiero que a alguien le llegue... no muy
 Hasta ahi diria que vale la pena...
 Ojala y sea mas que eso.
 Que sea mejor.
-
-                                                                                              **_[Poné tu comentario aquí](http://sinjeta.wordpress.com/2008/10/31/me-asomo-al-mundo/#respond)_**

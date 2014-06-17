@@ -11,7 +11,7 @@ tags:
 - Tiempo
 - Vida
 ---
-
+<!-- more -->
 ![jirafa](http://sinjeta.files.wordpress.com/2008/11/jirafa.jpg)
 
 Una persona amiga, me decía que no hay nada mas jodido que trabajar de noche, como me toca a mi cada 2 semanas. Que el descanso perdido no se recuperaba, además otras quejas ya antes escuchadas.
@@ -27,7 +27,5 @@ Sólo quiero mas tiempo para vivir.
 
 [Como una jirafa.](http://adrianajaraes.blogspot.com/2007/07/hechos-sobre-jirafas-parte-ii.html)
 
-
-**_[Dejame tu comentario aquí](http://sinjeta.wordpress.com/2008/11/06/quiero-ser-jirafa/#respond)_**
 
 

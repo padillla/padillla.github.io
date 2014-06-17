@@ -11,11 +11,9 @@ tags:
 - Ciencia
 - Mentes.
 ---
-
+<!-- more -->
 He descubierto a Isaac Asimov, un autor que no deja de sorprenderme, con una narrativa que incita a preguntarse aun mas sobre la lo que fue su vision del futuro del mundo y de la humanidad en general.
 
-<!-- more -->
- 
 
 Cientifico, tengo entendido que escribio mas de 500 libros, relatos y obras de interes cientifico, pero las posibilidades que expone en sus libros de ciencia ficcion son lo que mas le dio la inmortalidad.
 Por ejemplo el aspecto cientifico, algunos avances son magnificamente propuestos y algunos ya posibles hoy en dia el hombre se metio a lo largo de su vida en periodos de tiempo que abarca desde el año 2008 en sus cuentos de robotica, demasiado optimista, hasta 20 milenios por delante, donde micro fuentes de energia nuclear, son baterias de larga duracion, suficientes para alimentar pequeños dispositivos de uso diario, donde un reactor de fusion paso a ser del tamaño de una nuez.

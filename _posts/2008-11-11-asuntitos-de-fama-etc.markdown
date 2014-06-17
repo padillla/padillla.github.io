@@ -13,7 +13,7 @@ tags:
 - Pichudo
 - Podcast
 ---
-
+<!-- more -->
 [![etcpodcast](http://sinjeta.files.wordpress.com/2008/11/etc21.jpg)](http://etceterapodcast.com/)
 
 [](http://etceterapodcast.com/)[_Etcetera_](http://etceterapodcast.com/) celebra su episodio #50, un abrazo a estos geniales chicos argentinos.
@@ -25,8 +25,5 @@ Ah! por cierto, allí tuve [**_ mi ratito _**](http://etceterapodcast.com/2008/1
 Felicitaciones.
 Fatay is Pancet.
 
-
-
-[**Dejá tu comentario aquí.**](http://sinjeta.wordpress.com/2008/11/11/asuntitos-de-fama-etc/)
 
 

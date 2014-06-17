@@ -7,6 +7,7 @@ slug: biblioteca-joaquin-garcia-monge
 title: Biblioteca Joaquin Garcia Monge
 wordpress_id: 217
 ---
+<!-- more -->
 
 [![image](http://sinjeta.files.wordpress.com/2014/01/wpid-img_20140124_154032.jpg)](http://sinjeta.files.wordpress.com/2014/01/wpid-img_20140124_154032.jpg)
 

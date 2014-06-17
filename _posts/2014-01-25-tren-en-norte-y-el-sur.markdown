@@ -7,7 +7,7 @@ slug: tren-en-norte-y-el-sur
 title: Tren en norte y el sur
 wordpress_id: 211
 ---
-
+<!-- more -->
 Seria genial tener un tren que viaje a Guanacaste y hacia Golfito o Buenos Aires. 
 Seria una buena forma de desarrollar lugares fuera de la GAM, sin necesariamente urbanizarlos.
 El tren es un avance, no un retroceso. Fue algo que hizo añicos una vez Figueres para engordar los bolsillos de transportistas a costas de incrementar la saturacion vial y la contaminacion.

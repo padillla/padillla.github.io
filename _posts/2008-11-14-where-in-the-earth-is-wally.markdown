@@ -14,7 +14,7 @@ tags:
 - Waldo
 - Wally
 ---
-
+<!-- more -->
 [![whereswally](http://sinjeta.files.wordpress.com/2008/11/whereiswally.jpg)](http://sinjeta.files.wordpress.com/2008/11/whereiswally.jpg)
 
 
@@ -27,4 +27,3 @@ Veamos si los que jugaban [_**Los Zumbis**_](http://sinjeta.files.wordpress.com/
 
 [**Si te mandás... participá aquí.**](http://www.borders.co.uk/whereswally)
 
-**_[Dejá tu comentario aquí](http://sinjeta.wordpress.com/2008/11/06/where-in-the-earth-is-wally/#respond)_**

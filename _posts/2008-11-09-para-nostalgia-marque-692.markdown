@@ -12,6 +12,7 @@ tags:
 - Sabalito
 - Tilaran
 ---
+<!-- more -->
 
 Me he despertado hace ratillo, luego de haberme dormido viendo una mala pelicula de Cameron Díaz en cinecanal. 
 En la cama, tapado con la cobija como en los viejos tiempos (para que mi mama no reniegue de mis desvelos de nuevo) escibiendo esto en el añejo [Tilaran](http://es.wikipedia.org/wiki/Tilar%C3%A1n_(cant%C3%B3n)),  sin haber llegado aún [**al lugar**](http://en.wikipedia.org/wiki/Sabalito) que fue testigo de un pedazo de lo que soy ahora y otra parte de lo que dejé de ser.
@@ -20,8 +21,5 @@ Irónicamente hoy ni loco me podría subir a un árbol en la ciudad a meditar lo
 Un post tan pronto esté [**allí.**](http://en.wikipedia.org/wiki/Sabalito)
 
 ![bus-tronad](http://sinjeta.files.wordpress.com/2008/11/bus-tronad.jpg)
-
-**_[Dejate un comentario aquí](http://sinjeta.wordpress.com/2008/11/09/para-nostalgia-marque-692/#respond)_**
-
 
 

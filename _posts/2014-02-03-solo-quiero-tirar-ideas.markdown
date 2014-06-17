@@ -7,10 +7,9 @@ slug: solo-quiero-tirar-ideas
 title: Vote por el espacio.
 wordpress_id: 223
 ---
+<!-- more -->
 
 Estuve votando en Tilaran, decidi por Jose Maria V, decision que tome cuando tenia la papeleta al frente. 
-
-<!-- more -->
 
 Decidi votar por los diputados de Patria Nueva. 
 Note muchas cosas que me gustaria fueran posibles en algun futuro.

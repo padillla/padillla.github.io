@@ -12,6 +12,7 @@ tags:
 - Encuestas
 - Verguenzas
 ---
+<!-- more -->
 
 ![descaradamente tomado del fusil](http://sinjeta.files.wordpress.com/2008/12/antip1.jpg)
 

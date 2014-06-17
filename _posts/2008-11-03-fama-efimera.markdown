@@ -10,7 +10,7 @@ tags:
 - amigos
 - Fama
 ---
-
+<!-- more -->
 Seria como:
 
 Ese paneo en algun reportaje de las noticias, que pasamos en el bus gruñendo por la presa del accidente que estan pasando en vivo. El muerto al hoyo, dirías. Por ahi salgo yo, tambien dirás.
@@ -35,8 +35,4 @@ Esa corta oportunidad que tuviste en [tv mejenga](http://www.fusildechispas.com/
 
 En algun momento llegamos a tener esos 15 milisegundos, esa foto, esa mencion, esa parte particular de la historia en la que participaste, que sale siempre a relucir en conversaciones poco importantes.
 
-...esta es una.
 
-Contamela.
-
-**_[Poné tu comentario aquí](http://sinjeta.wordpress.com/2008/11/02/fama-efimera/#respond)_**

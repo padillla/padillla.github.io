@@ -11,7 +11,7 @@ tags:
 - Ustedes
 - yo
 ---
-
+<!-- more -->
 Un arroz con atun.
 Dormir en en el piso. O en cualquier parte.
 Ponerme gafas. Las de siempre.
@@ -26,6 +26,3 @@ Jugar emuladores, simple nostalgia.
 Arreglar algo. Lo que sea.
 Reir hasta que se me safe la quijada.
 
-A vos?
-
-**_[Poné tu comentario aquí](http://sinjeta.wordpress.com/2008/11/01/make-me-feel-all-right/#respond)_**

@@ -7,12 +7,9 @@ published: false
 slug: mejorara
 title: Mejorará.
 wordpress_id: 129
-tags:
-- amigos
-- Blog
-- Cosillas
-- Para vos
 ---
+
+<!-- more -->
 
 <blockquote>Uno que no existe en el pasado sino hoy y con suerte mañana, cuando regrese.</blockquote>
 

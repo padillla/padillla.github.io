@@ -12,10 +12,11 @@ tags:
 - Polemica
 - Religion
 ---
+<!-- more -->
 
 [![](http://sinjeta.files.wordpress.com/2008/11/platudo1.jpg)](http://sinjeta.files.wordpress.com/2008/11/platudo1.jpg)
 
-Mis disculpas si hiero susceptibilidades.
+Posiblemente hiero susceptibilidades. 
 Soy catolico. No por ejercicio, sino por tradicion obligatoria familiar. Y porque dicen que un poco de agua fria en la cabeza lo establece asi. Nada mas.
 Desde pequeño, siempre me preguntaba infinidad de cosas sobre ese lugar al que me obligaban a ir los martes en las tardes...(asi era en [**Sabalito**](http://sabalito.com), los domingos eran para [**las mejengas**](http://www.tubabel.com/definicion/11358-mejenga) y los chinamos).
 Porqué las iglesias son tan grandes y bonitas?
@@ -28,6 +29,5 @@ El caso del obispillo ese que me cacheteo en mi "confirmacion" en el 2004 es uno
 A mi no me duele esto, al contrario, me da risa y me demuestra a mi y a todos una vez mas que quienes manejan las oraciones, los dones, los sacramentos, y toda esa mitologia... son como nosotros: mentirosos.
 Por todos lados.
 
-**_[Poné tu comentario aquí](http://sinjeta.wordpress.com/2008/11/03/no-me-golpeo-el-pecho/#respond)_**
 
 

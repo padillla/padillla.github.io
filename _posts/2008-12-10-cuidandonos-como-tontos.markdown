@@ -10,7 +10,7 @@ tags:
 - Estupidez Humana
 - Inseguridad
 ---
-
+<!-- more -->
 La situación de inseguridad que se maneja en estos días es tal, que nos ha hecho tomar acciones con las que creemos nos evitamos que una o más ratas vayan a dejarnos limpios como la conciencia de una monja.
 
 Hay algunos casos típicos como el tipo que forra la casa en un enverjado más grande y caro que los tiliches que está cuidando. 
@@ -30,5 +30,3 @@ Pero [**existen tambien los ladrones más tontos que uno se pueda imaginar**](ht
 Ahora les dejo la tarea de contarme cuál es su medida de seguridad (no tiene que ser como los ejemplos) que no pueden creer que hagan con tal de salvar sus chunches o no ser asaltados.
 
 [![para ir acorde con la época](http://sinjeta.files.wordpress.com/2008/12/asalto2.jpg?w=300)](http://sinjeta.files.wordpress.com/2008/12/asalto2.jpg)
-
-[**Dejá tu comentario aquí.**](http://sinjeta.wordpress.com/2008/12/10/cuidandonos-como-tontos/)

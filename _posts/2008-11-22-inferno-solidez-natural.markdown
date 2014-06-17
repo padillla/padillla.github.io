@@ -12,7 +12,7 @@ tags:
 - Tarro nacional
 - Thrash
 ---
-
+<!-- more -->
 Estuve hace poco en un concierto de unos compas , que tocan trash metal del bueno sin perdonarle nada a nadie. Son geniales.
 
 Mauricio, Elman y Marco forman Inferno, una banda con futuro grande, si siguen con ese empuje que le han dado a lo que quieren: mostrar lo suyo.
