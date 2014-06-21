@@ -60,7 +60,7 @@ html {
 
 body {
   color: #515151;
-  background-color: #fff;
+ background: url(../bg.png);
   -webkit-text-size-adjust: 100%;
       -ms-text-size-adjust: 100%;
 }
@@ -288,6 +288,9 @@ tbody tr:nth-child(odd) th {
   padding-right: 1rem;
   margin-left:  auto;
   margin-right: auto;
+}
+/*.wrap>.container{
+  background: url(../bg.png);
 }
 
 
