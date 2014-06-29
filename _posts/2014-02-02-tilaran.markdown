@@ -56,8 +56,3 @@ wordpress_id: 239
 
 [![image](http://sinjeta.files.wordpress.com/2014/02/wpid-img_20140202_121918.jpg)](http://sinjeta.files.wordpress.com/2014/02/wpid-img_20140202_121918.jpg)
 
-
-
-
-
-Posted from WordPress for Android
