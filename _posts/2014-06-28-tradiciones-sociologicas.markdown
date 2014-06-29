@@ -19,6 +19,6 @@ Esto son los "forros" que he creado definiendo de forma muy densa cada tradicion
 
 ###- Integracionismo y Postmodernindad.png
 
-[![image](/public/img/t3.png)](./public/img/tradiciones_3.jpg)
+[![image](/public/img/t3.png)](/public/img/tradiciones_3.jpg)
 
 
