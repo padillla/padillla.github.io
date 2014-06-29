@@ -9,16 +9,16 @@ title: Tradiciones sociológicas
 
 Esto son los "forros" que he creado definiendo de forma muy densa cada tradicion sociologica (negro), autores (rojo) e ideas (azul).
 
-## Subjetivista y Estructural Funcionalista.png
+###- Subjetivista y Estructural Funcionalista.png
 
-[![image](/public/img/tradiciones_1.jpg)](/public/img/tradiciones_1.jpg)
+[![image](/public/img/t1.png)](/public/img/tradiciones_1.jpg)
 
-## -Marxismo.png
+### -Marxismo.png
 
-[![image](/public/img/tradiciones_2.jpg)](/public/img/tradiciones_2.jpg)
+[![image](/public/img/t2.png)](/public/img/tradiciones_2.jpg)
 
-## - Integracionismo y Postmodernindad.png
+###- Integracionismo y Postmodernindad.png
 
-[![image](/public/img/tradiciones_3.jpg)](./public/img/tradiciones_3.jpg)
+[![image](/public/img/t3.png)](./public/img/tradiciones_3.jpg)
 
 
