@@ -10,6 +10,7 @@ tags:
 - Asimov
 - Ciencia
 - Mentes.
+permalink: asimov
 ---
 <!-- more -->
 He descubierto a Isaac Asimov, un autor que no deja de sorprenderme, con una narrativa que incita a preguntarse aun mas sobre la lo que fue su vision del futuro del mundo y de la humanidad en general.
