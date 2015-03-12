@@ -6,29 +6,19 @@ layout: page
 Hi, I'm **Rodolfo Padilla**. I'm a student at
 [UNED](http://www.uned.ac.cr/) in the
 [ECEN](http://www.uned.ac.cr/ecen/) department, where my studies
-include, computer science, physics, and sociology.
+include, computer science, sociology and other stuff.
 
-I'm obsessed with robotics and space technology, and have engaged on the lifelong trek towards sustainable energy for those purposes. 
-pa
-Currently working as a tech support agent, fixing computers and such.
+I'm kinda obsessed with technology. 
 
-I like to be constanly learning, web development mainly these days. I believe I am at the state to make a living by doing it and turn some ideas into reality.
+Currently working as Implementation Engineer at [GAP](http://www.wearegap.com/), also doing 3d printing and diy robotics as a hobby. I also like assembling embedded computers and such. 
 
-I can currently code in HTML, CSS and Javascript.
+I like to be constanly learning, web development mainly these days. I believe I am at the state to make a living by doing it. 
 
-I can survive in Spanish, English, and a bit of German.
+This blog is a central place for me to publish my ideas on programming, sociology, mathematics, philosophy, astronomy and all
+sorts of other things I like. In the very unlikely case that the Internet cares
+about my personal development, I might post some progress in projects I am working on.
 
-This blog is a central place for me to publish my musings on programming, sociology, mathematics, philosophy, astronomy and all
-sorts of other fascinating things. In the unlikely case that the Internet cares
-about my personal development,  I also detail my quest to *live intentionally*
-through  periodic reflections and goals posts.
-
-I am also an electrician, I have vast experience fixing things, pretty much any device powered by electricity: 
-
-* Computers
-* Smartphones
-* Home appliances 
-* Industrial machinery and tools
+I am also a certified electrician, I have some experience doing industrial automation, robotics and I'm very efficient at changing lightbulbs.
 
 ### On the web
 
@@ -36,6 +26,8 @@ I am also an electrician, I have vast experience fixing things, pretty much any 
 * [Stack Overflow](http://stackoverflow.com/users/2288228/padillla)
 * [Goodreads](https://www.goodreads.com/padillla)
 * [Google+](https://plus.google.com/113901489533035852987/)
+* [Facebook](https://www.facebook.com/rodolfo.padillaruiz)
+* [Twitter](https://www.twitter.com/padillla)
 
 ### Currently reading
 
