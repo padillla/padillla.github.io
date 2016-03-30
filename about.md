@@ -8,28 +8,34 @@ Hi, I'm **Rodolfo Padilla**. I'm a student at
 [ECEN](http://www.uned.ac.cr/ecen/) department, where my studies
 include, computer science, sociology and other stuff.
 
-I'm kinda obsessed with technology. 
 
-Currently working as Implementation Engineer at [GAP](http://www.wearegap.com/), also doing 3d printing and diy robotics as a hobby. I also like assembling embedded computers and such. 
+Currently working as Implementation Engineer at [GAP](http://www.wearegap.com/).
 
-I like to be constanly learning, web development mainly these days. I believe I am at the state to make a living by doing it. 
+I like to be constanly learning. Since I was 9 my passion is deconstruct and rebuild things from the ground. Usually leaving some screws out.
 
 This blog is a central place for me to publish my ideas on programming, sociology, mathematics, philosophy, astronomy and all
-sorts of other things I like. In the very unlikely case that the Internet cares
-about my personal development, I might post some progress in projects I am working on.
+sorts of other things I am interested in and cannot seriously publish elswhere.
+In the very unlikely case that the Internet cares about my personal development, I might post some progress in some personal projects I am working on.
 
-I am also a certified electrician, I have some experience doing industrial automation, robotics and I'm very efficient at changing lightbulbs.
+Among many things I love doing, I try to make at least 60km on the bike every week, and plan to improve as long as time allows it.
+Doing 3d printing and robotics as a hobby, 3D modeling is something I strive to do everyday better, as my cheap and modded printrbot allows it.
+If ever try doing some sort of art or music again, I might post it. Be afraid.
 
-### On the web
+I am also an electrician, I have experience doing industrial automation, robotics and I'm very efficient at changing lightbulbs.
+
+### Some online presence
 
 * [GitHub](https://github.com/padillla)
 * [Stack Overflow](http://stackoverflow.com/users/2288228/padillla)
-* [Goodreads](https://www.goodreads.com/padillla)
+* [LinkdedIn](https://cr.linkedin.com/in/rodolfo-padilla-ruiz-6836aa53)
 * [Google+](https://plus.google.com/113901489533035852987/)
 * [Facebook](https://www.facebook.com/rodolfo.padillaruiz)
 * [Twitter](https://www.twitter.com/padillla)
+* [Thingiverse](https://www.thingiverse.com/Padillla)
+* [Strava](https://www.strava.com/athletes/11810919)
+* [YouTube](https://www.youtube.com/channel/UCo2IbnJdJES5pUYX4kKPWBg)
 
-### Currently reading
+### What I am reading now
 
 <style type="text/css" media="screen">
 #gr_custom_widget_1402980441 { margin-top: 10px; } 
