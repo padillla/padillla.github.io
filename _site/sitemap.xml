@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>http://padillla.github.io/</loc>
-    <lastmod>2016-04-21T14:58:59-06:00</lastmod>
+    <lastmod>2016-04-21T15:10:54-06:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
@@ -223,6 +223,19 @@
   </url>
   
   <url>
+    <loc>http://padillla.github.io/contact</loc>
+    
+      <lastmod>2016-04-21</lastmod>
+    
+    
+      <changefreq>monthly</changefreq>
+    
+    
+      <priority>0.3</priority>
+    
+  </url>
+  
+  <url>
     <loc>http://padillla.github.io/</loc>
     
       <lastmod>2016-04-21</lastmod>
@@ -237,19 +250,6 @@
   
   <url>
     <loc>http://padillla.github.io/sitemap.xml</loc>
-    
-      <lastmod>2016-04-21</lastmod>
-    
-    
-      <changefreq>monthly</changefreq>
-    
-    
-      <priority>0.3</priority>
-    
-  </url>
-  
-  <url>
-    <loc>http://padillla.github.io/work/</loc>
     
       <lastmod>2016-04-21</lastmod>
     

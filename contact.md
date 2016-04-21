@@ -1,6 +1,7 @@
 ---
 title: Contact
 layout: page
+permalink: contact
 ---
 
 I am available for freelance work, 10 hours week. Full time sounds better at this time. 
