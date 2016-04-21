@@ -31,14 +31,15 @@ Since I cant really give a shit of naysayers, some planned improments for this m
 *	Removable mill.
 
 I have dealt with all kinds of issues with this machine, I love to resolve them and se it print at a better quality each time.
-I have now the intention to transform a small printrbot in a better machine that allows me to fabricate and prototype better parts at a more efficient rate reducing errors.
+I have now the intention to transform a small printrbot in a better machine that allows me to fabricate and prototype better parts at a more efficient rate reducing errors. 
+I can now resolve any problem related to Cartesian FFF 3D printers and calibrate them. Ping me for help.
+
 
 At some point I will inmerse myself in 3D Design, once the horse is dominated.
 
-There is also an [active community in Costa Rica ](https://www.facebook.com/groups/649106395172543/)
-where all learners of this stuff gather and workship noisy machines like me.
+There is also an [active community in Costa Rica ](https://www.facebook.com/groups/649106395172543/)where all learners of this stuff gather and workship noisy machines like me.
 
-I will keep this page reguraly updated as times allows it but fell free to visit me on other platforms where I upload or fing very cool things to make:
+I will keep this page regularly updated as times allows it, fell free to visit me on other platforms where I upload or fing very cool things to make:
 
 * [Thingiverse](https://www.thingiverse.com/Padillla)
 * [3DHubs](https://www.3dhubs.com/san-jos%C3%A9-costa-rica/hubs/fofo)
