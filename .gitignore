@@ -2,8 +2,7 @@
 _gh_pages
 _site
 .ruby-version
-_site/
-.sass-cache/
+.sass-cache
 .jekyll-metadata
 
 # Numerous always-ignore extensions
