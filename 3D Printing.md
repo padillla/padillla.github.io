@@ -6,29 +6,42 @@ permalink: 3DPrint
 
 I have recently inmersed in a world that bring new chances to make my imagination fly and make my ideas a real deal.
 
-Back in 2014, I took a debt and about 6 weeks of work to get a Printrbot Simple.
-I fine tuned it, calibrated it and made it better. 
-So far I have made a few improvements to it.
+Back in 2014, I took a debt and about 6 weeks of manual work and lots of googling to get a Printrbot Simple up and running.
+I fine tuned it, calibrated it and improved it. 
+So far I have:
 
-*	Increased the X axis of the build volume from 100 to 188 mm.
-*	Made a filament spool standing above the printer.
-*	Installed Raspberry Pi to remotely control and view printings.
+*	Increased the X axis of the build volume from 99mm to 188 mm.
+
+###	Before
+![alt text](https://lh3.googleusercontent.com/YBMcqdZE52ZumRbwJzvycuJdjHFqPifScnxLEpdE7esKCvDwM6zOkSgjrJXbBRx7ZeVMuBGBxPWvWbPBq4RG9xsvxx3ES68j-q-xmSDjDx8-1bCDpiRHku4CXlhSJCQ49siGyAPvxFeuAFRfpHJZ80obWQ-j8eY2NVcBpn4J4BFzNu42_3E89a_60pxVUgOXhbKRBpSs7mB_BbCOHUb22J5Sk07_ao62YoE0tSB7P7WX88Au3iQ7pEv6oqYhiBtBIxsdno0AzdqRSuVZkquY7RNXMc-eP8CEKNAoMQNZgxTrIcHsxmgdjV_O8iM7O8KeXQSi5KilHG9bOrP_ioY3PY7uwiJ0hAPri4B87O_m1_n8l0W87sDFbbYVXh0_pzQZB8EKCMEZ-uyb_O0wddnG8S-Fu40zntlh0rpuvnxCJg-NqYxSPTv3igMOr-GOSlsTs-CESx3CDq7ws2xCUQHFQSck4ql914bPVCh_Hcd4rYn7MGSAsz_5LrCoe14jxXj62npvWluffz8eQVFrJ7ni-uicy_25PAceWAuWlC-GusoOhFySwM8BHNBPwtfQIeA9q8IU=w1274-h955-no "99mm Bed")
+
+###	After
+
+![alt text](https://lh3.googleusercontent.com/uNjTG40PTKOIGeC_5KDS2tDjXNuE8UCQSDXW-IrnbzpbK8D4GtUJ6F4ax5ClKiIWnjwGbKXHnE4DsozZQSQdbb83f07jWRJpqY0n6QnSMGeEtTQpPObOo99Zodj5wDZgZy5lyjuATNcWyZs-pQ0kswWF3C50sgiZ_21R6qpfkpMJ5weE4P8FU0umhh_5yAf9-Hhh3ODhKCPo01nfqs6IYFhLch-vSigEXBt-DsypsIzl-pX7fMz1cVcNFRvj8IGfsZdzKrrbAwwSAEm-6u-dmEFZub-6afghGVnJInr5Xsqunu40Redl0x9yYoB9ERSkAfl3uIHUtkxUtNrxCvU1uB1WOIsHhIsHATwEEtasvfEx-waJzO8tN60Rx7VA4-weWIQqsCJbzvMtOmIwMLC8TrpOuyATFurvy2b-tjrOScV5-v1BeOea0p0Cj5JMjw-5C6xh2chYJHv5ssTSlmNQVvH3N0V3ydwobSVMkbfs02S4Slo-KGReghRxHk3ztFz3W-ky21g6adCsm6ncTPjKunV4EZdalEP3pxpxm7WramT0EKqD17pvuqqXKsDJc5FwqXk1=w1274-h955-no "188mm Bed")
+
+
+*	Increased Z Axis volume from 99mm to 120mm
+*	[Installed filament spool holder.]()
+*	Installed Raspberry Pi and Octoprint to control and record printings without need of a PC. 
 *	Changed Extruder nozzle from Ubis Ceramic to Ubis 13s which improved precision and lowered failed prints.
 *	Added 80 mm fan to improve print quality.
 
 Many people think it is a waste of money, for me its an amazing learning tool. 
 Since I cant really give a shit of naysayers, some planned improments for this machine are:
 
-*	Increase nozzle to hardened steel to handle abrassive materials.
+*	Setup Raspi Camera for timelapses.
+*	Setup secure remote control and vizualization.
+*	Replace nozzle tip for hardened one to handle abrassive materials.
 *	Print in Proto-Pasta Carbon Fibre.
 *	Add a Bowden extrusion system.
-*	Make it double extruder or 4 color extrusion.
+*	Make it double extruder with another Bowden.
 *	Make jonhlawrence double precision improvements to X and Y axis.
-*	Add a heatbed.
-*	Add enclosure.
+*	^That or make it a delta.
+*	Install a heatbed.
+*	Make an enclosure.
 *	Print in ABS and Nylon CF.
-*	Removable laser.
-*	Removable mill.
+*	Removable laser head.
+*	Removable milling head.
 
 I have dealt with all kinds of issues with this machine, I love to resolve them and se it print at a better quality each time.
 I have now the intention to transform a small printrbot in a better machine that allows me to fabricate and prototype better parts at a more efficient rate reducing errors. 
