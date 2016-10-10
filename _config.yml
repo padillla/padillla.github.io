@@ -16,6 +16,7 @@ author:
   name:           'Rodolfo Padilla'
   twitter:         https://twitter.com/padillla
   facebook:        https://www.facebook.com/rodolfo.padillaruiz
+repository: padillla/padillla.github.io
 
 # Custom vars
 version:          1.0.0
@@ -23,4 +24,7 @@ version:          1.0.0
 github:
   repo:           https://github.com/padillla/padillla.github.io
 
-gems: [jekyll-paginate]
+gems:    
+  - github-pages
+  - jekyll-coffeescript
+  - jekyll-paginate
