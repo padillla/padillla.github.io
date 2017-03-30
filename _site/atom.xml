@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
  <title>Fofo's cave</title>
- <link href="http://padillla.github.io/atom.xml" rel="self"/>
- <link href="http://padillla.github.io/"/>
- <updated>2016-10-09T21:40:31-06:00</updated>
- <id>http://padillla.github.io</id>
+ <link href="http://0.0.0.0:8080/atom.xml" rel="self"/>
+ <link href="http://0.0.0.0:8080/"/>
+ <updated>2017-03-30T15:14:24+00:00</updated>
+ <id>http://0.0.0.0:8080</id>
  <author>
    <name>Rodolfo Padilla</name>
    <email></email>
@@ -14,9 +14,9 @@
  
  <entry>
    <title>Tradiciones sociológicas</title>
-   <link href="http://padillla.github.io/2014/06/28/tradiciones-sociologicas/"/>
-   <updated>2014-06-28T21:31:00-06:00</updated>
-   <id>http://padillla.github.io/2014/06/28/tradiciones-sociologicas</id>
+   <link href="http://0.0.0.0:8080/2014/06/28/tradiciones-sociologicas/"/>
+   <updated>2014-06-28T21:31:00+00:00</updated>
+   <id>http://0.0.0.0:8080/2014/06/28/tradiciones-sociologicas</id>
    <content type="html">&lt;!-- more --&gt;
 
 &lt;p&gt;Esto son los “forros” que he creado definiendo de forma muy densa cada tradicion sociologica (negro), autores (rojo) e ideas (azul).&lt;/p&gt;
@@ -25,7 +25,7 @@
 
 &lt;p&gt;&lt;a href=&quot;/public/img/tradiciones_1.jpg&quot;&gt;&lt;img src=&quot;/public/img/t1.png&quot; alt=&quot;image&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
 
-&lt;h3 id=&quot;marxismopng&quot;&gt;-Marxismo.png&lt;/h3&gt;
+&lt;h3 id=&quot;-marxismopng&quot;&gt;-Marxismo.png&lt;/h3&gt;
 
 &lt;p&gt;&lt;a href=&quot;/public/img/tradiciones_2.jpg&quot;&gt;&lt;img src=&quot;/public/img/t2.png&quot; alt=&quot;image&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
 
@@ -38,9 +38,9 @@
  
  <entry>
    <title>Asimov</title>
-   <link href="http://padillla.github.io/asimov"/>
-   <updated>2014-05-11T12:09:35-06:00</updated>
-   <id>http://padillla.github.io/asimov</id>
+   <link href="http://0.0.0.0:8080/asimov"/>
+   <updated>2014-05-11T18:09:35+00:00</updated>
+   <id>http://0.0.0.0:8080/asimov</id>
    <content type="html">&lt;!-- more --&gt;
 &lt;p&gt;He descubierto a Isaac Asimov, un autor que no deja de sorprenderme, con una narrativa que incita a preguntarse aun mas sobre la lo que fue su vision del futuro del mundo y de la humanidad en general.&lt;/p&gt;
 
@@ -100,9 +100,9 @@ http://es.m.wikiquote.org/wiki/Isaac_Asimov&lt;/p&gt;
  
  <entry>
    <title>Vote por el espacio.</title>
-   <link href="http://padillla.github.io/2014/02/02/solo-quiero-tirar-ideas/"/>
-   <updated>2014-02-02T18:33:41-06:00</updated>
-   <id>http://padillla.github.io/2014/02/02/solo-quiero-tirar-ideas</id>
+   <link href="http://0.0.0.0:8080/2014/02/03/solo-quiero-tirar-ideas/"/>
+   <updated>2014-02-03T00:33:41+00:00</updated>
+   <id>http://0.0.0.0:8080/2014/02/03/solo-quiero-tirar-ideas</id>
    <content type="html">&lt;!-- more --&gt;
 
 &lt;p&gt;Estuve votando en Tilaran, decidi por Jose Maria V, decision que tome cuando tenia la papeleta al frente.&lt;/p&gt;
@@ -125,9 +125,9 @@ Yo solo necesito oscuridad y un cielo sin nubes.&lt;/p&gt;
  
  <entry>
    <title>Tilaran</title>
-   <link href="http://padillla.github.io/2014/02/02/tilaran/"/>
-   <updated>2014-02-02T11:31:00-06:00</updated>
-   <id>http://padillla.github.io/2014/02/02/tilaran</id>
+   <link href="http://0.0.0.0:8080/2014/02/02/tilaran/"/>
+   <updated>2014-02-02T17:31:00+00:00</updated>
+   <id>http://0.0.0.0:8080/2014/02/02/tilaran</id>
    <content type="html">&lt;!-- more --&gt;
 
 &lt;p&gt;&lt;a href=&quot;http://sinjeta.files.wordpress.com/2014/02/wpid-img_20140131_1418301.jpg&quot;&gt;&lt;img src=&quot;http://sinjeta.files.wordpress.com/2014/02/wpid-img_20140131_1418301.jpg&quot; alt=&quot;image&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
@@ -159,9 +159,9 @@ Yo solo necesito oscuridad y un cielo sin nubes.&lt;/p&gt;
  
  <entry>
    <title>Biblioteca Joaquin Garcia Monge</title>
-   <link href="http://padillla.github.io/2014/01/24/biblioteca-joaquin-garcia-monge/"/>
-   <updated>2014-01-24T23:14:14-06:00</updated>
-   <id>http://padillla.github.io/2014/01/24/biblioteca-joaquin-garcia-monge</id>
+   <link href="http://0.0.0.0:8080/2014/01/25/biblioteca-joaquin-garcia-monge/"/>
+   <updated>2014-01-25T05:14:14+00:00</updated>
+   <id>http://0.0.0.0:8080/2014/01/25/biblioteca-joaquin-garcia-monge</id>
    <content type="html">&lt;!-- more --&gt;
 
 &lt;p&gt;&lt;a href=&quot;http://sinjeta.files.wordpress.com/2014/01/wpid-img_20140124_154032.jpg&quot;&gt;&lt;img src=&quot;http://sinjeta.files.wordpress.com/2014/01/wpid-img_20140124_154032.jpg&quot; alt=&quot;image&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
@@ -182,9 +182,9 @@ Yo solo necesito oscuridad y un cielo sin nubes.&lt;/p&gt;
  
  <entry>
    <title>Tren en norte y el sur</title>
-   <link href="http://padillla.github.io/2014/01/24/tren-en-norte-y-el-sur/"/>
-   <updated>2014-01-24T23:11:41-06:00</updated>
-   <id>http://padillla.github.io/2014/01/24/tren-en-norte-y-el-sur</id>
+   <link href="http://0.0.0.0:8080/2014/01/25/tren-en-norte-y-el-sur/"/>
+   <updated>2014-01-25T05:11:41+00:00</updated>
+   <id>http://0.0.0.0:8080/2014/01/25/tren-en-norte-y-el-sur</id>
    <content type="html">&lt;!-- more --&gt;
 &lt;p&gt;Seria genial tener un tren que viaje a Guanacaste y hacia Golfito o Buenos Aires. 
 Seria una buena forma de desarrollar lugares fuera de la GAM, sin necesariamente urbanizarlos.
@@ -199,9 +199,9 @@ Sin necesidad de tener miles de trailers en carretera contaminando, y por su tam
  
  <entry>
    <title>Cuidándonos como tontos</title>
-   <link href="http://padillla.github.io/2008/12/10/cuidandonos-como-tontos/"/>
-   <updated>2008-12-10T13:20:49-06:00</updated>
-   <id>http://padillla.github.io/2008/12/10/cuidandonos-como-tontos</id>
+   <link href="http://0.0.0.0:8080/2008/12/10/cuidandonos-como-tontos/"/>
+   <updated>2008-12-10T19:20:49+00:00</updated>
+   <id>http://0.0.0.0:8080/2008/12/10/cuidandonos-como-tontos</id>
    <content type="html">&lt;!-- more --&gt;
 &lt;p&gt;La situación de inseguridad que se maneja en estos días es tal, que nos ha hecho tomar acciones con las que creemos nos evitamos que una o más ratas vayan a dejarnos limpios como la conciencia de una monja.&lt;/p&gt;
 
@@ -227,9 +227,9 @@ También el soplas que se compra una calibre 38, nunca la toca por miedo a tirar
  
  <entry>
    <title>Quien la cago este año???</title>
-   <link href="http://padillla.github.io/2008/12/08/quien-la-cago-este-ano/"/>
-   <updated>2008-12-08T13:18:15-06:00</updated>
-   <id>http://padillla.github.io/2008/12/08/quien-la-cago-este-ano</id>
+   <link href="http://0.0.0.0:8080/2008/12/08/quien-la-cago-este-ano/"/>
+   <updated>2008-12-08T19:18:15+00:00</updated>
+   <id>http://0.0.0.0:8080/2008/12/08/quien-la-cago-este-ano</id>
    <content type="html">&lt;!-- more --&gt;
 
 &lt;p&gt;&lt;img src=&quot;http://sinjeta.files.wordpress.com/2008/12/antip1.jpg&quot; alt=&quot;descaradamente tomado del fusil&quot; /&gt;&lt;/p&gt;
@@ -248,9 +248,9 @@ Entre los candidatos están:  Jannina de Vecchio, Guido Sáenz, obvia e infalta
  
  <entry>
    <title>Inferno, solidez nacional</title>
-   <link href="http://padillla.github.io/2008/11/22/inferno-solidez-natural/"/>
-   <updated>2008-11-22T01:04:43-06:00</updated>
-   <id>http://padillla.github.io/2008/11/22/inferno-solidez-natural</id>
+   <link href="http://0.0.0.0:8080/2008/11/22/inferno-solidez-natural/"/>
+   <updated>2008-11-22T07:04:43+00:00</updated>
+   <id>http://0.0.0.0:8080/2008/11/22/inferno-solidez-natural</id>
    <content type="html">&lt;!-- more --&gt;
 &lt;p&gt;Estuve hace poco en un concierto de unos compas , que tocan trash metal del bueno sin perdonarle nada a nadie. Son geniales.&lt;/p&gt;
 
@@ -268,9 +268,9 @@ Entre los candidatos están:  Jannina de Vecchio, Guido Sáenz, obvia e infalta
  
  <entry>
    <title>Where in the earth is Wally</title>
-   <link href="http://padillla.github.io/2008/11/14/where-in-the-earth-is-wally/"/>
-   <updated>2008-11-14T15:39:54-06:00</updated>
-   <id>http://padillla.github.io/2008/11/14/where-in-the-earth-is-wally</id>
+   <link href="http://0.0.0.0:8080/2008/11/14/where-in-the-earth-is-wally/"/>
+   <updated>2008-11-14T21:39:54+00:00</updated>
+   <id>http://0.0.0.0:8080/2008/11/14/where-in-the-earth-is-wally</id>
    <content type="html">&lt;!-- more --&gt;
 &lt;p&gt;&lt;a href=&quot;http://sinjeta.files.wordpress.com/2008/11/whereiswally.jpg&quot;&gt;&lt;img src=&quot;http://sinjeta.files.wordpress.com/2008/11/whereiswally.jpg&quot; alt=&quot;whereswally&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
 
@@ -287,9 +287,9 @@ Entre los candidatos están:  Jannina de Vecchio, Guido Sáenz, obvia e infalta
  
  <entry>
    <title>Para nostalgia, marque 692</title>
-   <link href="http://padillla.github.io/2008/11/09/para-nostalgia-marque-692/"/>
-   <updated>2008-11-09T06:15:17-06:00</updated>
-   <id>http://padillla.github.io/2008/11/09/para-nostalgia-marque-692</id>
+   <link href="http://0.0.0.0:8080/2008/11/09/para-nostalgia-marque-692/"/>
+   <updated>2008-11-09T12:15:17+00:00</updated>
+   <id>http://0.0.0.0:8080/2008/11/09/para-nostalgia-marque-692</id>
    <content type="html">&lt;!-- more --&gt;
 
 &lt;p&gt;Me he despertado hace ratillo, luego de haberme dormido viendo una mala pelicula de Cameron Díaz en cinecanal. 
@@ -305,9 +305,9 @@ Un post tan pronto esté &lt;a href=&quot;http://en.wikipedia.org/wiki/Sabalito&
  
  <entry>
    <title>Quiero ser Jirafa</title>
-   <link href="http://padillla.github.io/2008/11/06/quiero-ser-jirafa/"/>
-   <updated>2008-11-06T16:12:06-06:00</updated>
-   <id>http://padillla.github.io/2008/11/06/quiero-ser-jirafa</id>
+   <link href="http://0.0.0.0:8080/2008/11/06/quiero-ser-jirafa/"/>
+   <updated>2008-11-06T22:12:06+00:00</updated>
+   <id>http://0.0.0.0:8080/2008/11/06/quiero-ser-jirafa</id>
    <content type="html">&lt;!-- more --&gt;
 &lt;p&gt;&lt;img src=&quot;http://sinjeta.files.wordpress.com/2008/11/jirafa.jpg&quot; alt=&quot;jirafa&quot; /&gt;&lt;/p&gt;
 
@@ -329,9 +329,9 @@ Me levanto a las 5, fresco, sin el menor resentimiento corporal ….al menos por
  
  <entry>
    <title>No Content Found</title>
-   <link href="http://padillla.github.io/2008/11/05/91/"/>
-   <updated>2008-11-05T18:03:55-06:00</updated>
-   <id>http://padillla.github.io/2008/11/05/91</id>
+   <link href="http://0.0.0.0:8080/2008/11/06/91/"/>
+   <updated>2008-11-06T00:03:55+00:00</updated>
+   <id>http://0.0.0.0:8080/2008/11/06/91</id>
    <content type="html">&lt;!-- more --&gt;
 &lt;p&gt;El tema no sera  Barack.
 Tampoco &lt;a href=&quot;http://www.fusildechispas.com/2008/10/20/paz-con-la-naturaleza-otro-cuento-chino/&quot;&gt;las Crucitas.&lt;/a&gt;
@@ -344,9 +344,9 @@ Debo dejar primero que salga la tierra de mis neuronas.&lt;/p&gt;
  
  <entry>
    <title>Fama efimera</title>
-   <link href="http://padillla.github.io/2008/11/02/fama-efimera/"/>
-   <updated>2008-11-02T19:55:09-06:00</updated>
-   <id>http://padillla.github.io/2008/11/02/fama-efimera</id>
+   <link href="http://0.0.0.0:8080/2008/11/03/fama-efimera/"/>
+   <updated>2008-11-03T01:55:09+00:00</updated>
+   <id>http://0.0.0.0:8080/2008/11/03/fama-efimera</id>
    <content type="html">&lt;!-- more --&gt;
 &lt;p&gt;Seria como:&lt;/p&gt;
 
@@ -377,9 +377,9 @@ Debo dejar primero que salga la tierra de mis neuronas.&lt;/p&gt;
  
  <entry>
    <title>Down in the corner</title>
-   <link href="http://padillla.github.io/2008/11/02/down-in-the-corner/"/>
-   <updated>2008-11-02T00:23:14-06:00</updated>
-   <id>http://padillla.github.io/2008/11/02/down-in-the-corner</id>
+   <link href="http://0.0.0.0:8080/2008/11/02/down-in-the-corner/"/>
+   <updated>2008-11-02T06:23:14+00:00</updated>
+   <id>http://0.0.0.0:8080/2008/11/02/down-in-the-corner</id>
    <content type="html">&lt;!-- more --&gt;
 &lt;p&gt;Es la cancion que un amigo me recomendo, no me la puedo sacar de la cabeza.
 A mas de uno le ocurre esto.
@@ -392,9 +392,9 @@ Y luego busco terapia.&lt;/p&gt;
  
  <entry>
    <title>Make me feel all right....</title>
-   <link href="http://padillla.github.io/2008/11/01/make-me-feel-all-right/"/>
-   <updated>2008-11-01T01:51:42-06:00</updated>
-   <id>http://padillla.github.io/2008/11/01/make-me-feel-all-right</id>
+   <link href="http://0.0.0.0:8080/2008/11/01/make-me-feel-all-right/"/>
+   <updated>2008-11-01T07:51:42+00:00</updated>
+   <id>http://0.0.0.0:8080/2008/11/01/make-me-feel-all-right</id>
    <content type="html">&lt;!-- more --&gt;
 &lt;p&gt;Un arroz con atun.
 Dormir en en el piso. O en cualquier parte.
@@ -415,9 +415,9 @@ Reir hasta que se me safe la quijada.&lt;/p&gt;
  
  <entry>
    <title>Este paraiso...(?)</title>
-   <link href="http://padillla.github.io/2008/10/31/este-paraiso/"/>
-   <updated>2008-10-31T03:13:47-06:00</updated>
-   <id>http://padillla.github.io/2008/10/31/este-paraiso</id>
+   <link href="http://0.0.0.0:8080/2008/10/31/este-paraiso/"/>
+   <updated>2008-10-31T09:13:47+00:00</updated>
+   <id>http://0.0.0.0:8080/2008/10/31/este-paraiso</id>
    <content type="html">&lt;!-- more --&gt;
 &lt;p&gt;Es dificil explicarse uno mismo cuando tenés un hervidero de ideas en la cabeza y no salen como deberia ser. Debo trabajar en eso. Y en un sueter nuevo.
 Bloggeando por alli &lt;a href=&quot;http://www.fusildechispas.com/2008/10/13/%c2%bfes-pecado-estar-harto/&quot;&gt;&lt;strong&gt;me encuentro&lt;/strong&gt;&lt;/a&gt; algunas observaciones del señor Cristian Cambronero en su &lt;a href=&quot;http://fusildechispas.com&quot;&gt;&lt;strong&gt;blog&lt;/strong&gt;&lt;/a&gt; ,respecto al desquiciado ajetreo nacional que nos tiene como estamos.
@@ -432,9 +432,9 @@ Eso espero.&lt;/p&gt;
  
  <entry>
    <title>Me asomo</title>
-   <link href="http://padillla.github.io/2008/10/30/me-asomo-al-mundo/"/>
-   <updated>2008-10-30T23:40:42-06:00</updated>
-   <id>http://padillla.github.io/2008/10/30/me-asomo-al-mundo</id>
+   <link href="http://0.0.0.0:8080/2008/10/31/me-asomo-al-mundo/"/>
+   <updated>2008-10-31T05:40:42+00:00</updated>
+   <id>http://0.0.0.0:8080/2008/10/31/me-asomo-al-mundo</id>
    <content type="html">&lt;!-- more --&gt;
 &lt;p&gt;&lt;a href=&quot;http://sinjeta.files.wordpress.com/2008/10/measomo2.jpg&quot;&gt;&lt;img src=&quot;http://sinjeta.files.wordpress.com/2008/10/measomo2.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
 
