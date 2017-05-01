@@ -2,7 +2,11 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>http://padillla.github.io/</loc>
+<<<<<<< HEAD
     <lastmod>2017-05-01T12:52:15-06:00</lastmod>
+=======
+    <lastmod>2017-03-30T15:14:24+00:00</lastmod>
+>>>>>>> origin/master
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
@@ -10,7 +14,7 @@
     <url>
       <loc>http://padillla.github.io/2014/06/28/tradiciones-sociologicas/</loc>
       
-        <lastmod>2014-06-28T21:31:00-06:00</lastmod>
+        <lastmod>2014-06-28T21:31:00+00:00</lastmod>
       
       <changefreq>monthly</changefreq>
       <priority>0.5</priority>
@@ -19,16 +23,16 @@
     <url>
       <loc>http://padillla.github.io/asimov</loc>
       
-        <lastmod>2014-05-11T12:09:35-06:00</lastmod>
+        <lastmod>2014-05-11T18:09:35+00:00</lastmod>
       
       <changefreq>monthly</changefreq>
       <priority>0.5</priority>
     </url>
   
     <url>
-      <loc>http://padillla.github.io/2014/02/02/solo-quiero-tirar-ideas/</loc>
+      <loc>http://padillla.github.io/2014/02/03/solo-quiero-tirar-ideas/</loc>
       
-        <lastmod>2014-02-02T18:33:41-06:00</lastmod>
+        <lastmod>2014-02-03T00:33:41+00:00</lastmod>
       
       <changefreq>monthly</changefreq>
       <priority>0.5</priority>
@@ -37,25 +41,25 @@
     <url>
       <loc>http://padillla.github.io/2014/02/02/tilaran/</loc>
       
-        <lastmod>2014-02-02T11:31:00-06:00</lastmod>
+        <lastmod>2014-02-02T17:31:00+00:00</lastmod>
       
       <changefreq>monthly</changefreq>
       <priority>0.5</priority>
     </url>
   
     <url>
-      <loc>http://padillla.github.io/2014/01/24/biblioteca-joaquin-garcia-monge/</loc>
+      <loc>http://padillla.github.io/2014/01/25/biblioteca-joaquin-garcia-monge/</loc>
       
-        <lastmod>2014-01-24T23:14:14-06:00</lastmod>
+        <lastmod>2014-01-25T05:14:14+00:00</lastmod>
       
       <changefreq>monthly</changefreq>
       <priority>0.5</priority>
     </url>
   
     <url>
-      <loc>http://padillla.github.io/2014/01/24/tren-en-norte-y-el-sur/</loc>
+      <loc>http://padillla.github.io/2014/01/25/tren-en-norte-y-el-sur/</loc>
       
-        <lastmod>2014-01-24T23:11:41-06:00</lastmod>
+        <lastmod>2014-01-25T05:11:41+00:00</lastmod>
       
       <changefreq>monthly</changefreq>
       <priority>0.5</priority>
@@ -64,7 +68,7 @@
     <url>
       <loc>http://padillla.github.io/2008/12/10/cuidandonos-como-tontos/</loc>
       
-        <lastmod>2008-12-10T13:20:49-06:00</lastmod>
+        <lastmod>2008-12-10T19:20:49+00:00</lastmod>
       
       <changefreq>monthly</changefreq>
       <priority>0.5</priority>
@@ -73,7 +77,7 @@
     <url>
       <loc>http://padillla.github.io/2008/12/08/quien-la-cago-este-ano/</loc>
       
-        <lastmod>2008-12-08T13:18:15-06:00</lastmod>
+        <lastmod>2008-12-08T19:18:15+00:00</lastmod>
       
       <changefreq>monthly</changefreq>
       <priority>0.5</priority>
@@ -82,7 +86,7 @@
     <url>
       <loc>http://padillla.github.io/2008/11/22/inferno-solidez-natural/</loc>
       
-        <lastmod>2008-11-22T01:04:43-06:00</lastmod>
+        <lastmod>2008-11-22T07:04:43+00:00</lastmod>
       
       <changefreq>monthly</changefreq>
       <priority>0.5</priority>
@@ -91,7 +95,7 @@
     <url>
       <loc>http://padillla.github.io/2008/11/14/where-in-the-earth-is-wally/</loc>
       
-        <lastmod>2008-11-14T15:39:54-06:00</lastmod>
+        <lastmod>2008-11-14T21:39:54+00:00</lastmod>
       
       <changefreq>monthly</changefreq>
       <priority>0.5</priority>
@@ -100,7 +104,7 @@
     <url>
       <loc>http://padillla.github.io/2008/11/09/para-nostalgia-marque-692/</loc>
       
-        <lastmod>2008-11-09T06:15:17-06:00</lastmod>
+        <lastmod>2008-11-09T12:15:17+00:00</lastmod>
       
       <changefreq>monthly</changefreq>
       <priority>0.5</priority>
@@ -109,25 +113,25 @@
     <url>
       <loc>http://padillla.github.io/2008/11/06/quiero-ser-jirafa/</loc>
       
-        <lastmod>2008-11-06T16:12:06-06:00</lastmod>
+        <lastmod>2008-11-06T22:12:06+00:00</lastmod>
       
       <changefreq>monthly</changefreq>
       <priority>0.5</priority>
     </url>
   
     <url>
-      <loc>http://padillla.github.io/2008/11/05/91/</loc>
+      <loc>http://padillla.github.io/2008/11/06/91/</loc>
       
-        <lastmod>2008-11-05T18:03:55-06:00</lastmod>
+        <lastmod>2008-11-06T00:03:55+00:00</lastmod>
       
       <changefreq>monthly</changefreq>
       <priority>0.5</priority>
     </url>
   
     <url>
-      <loc>http://padillla.github.io/2008/11/02/fama-efimera/</loc>
+      <loc>http://padillla.github.io/2008/11/03/fama-efimera/</loc>
       
-        <lastmod>2008-11-02T19:55:09-06:00</lastmod>
+        <lastmod>2008-11-03T01:55:09+00:00</lastmod>
       
       <changefreq>monthly</changefreq>
       <priority>0.5</priority>
@@ -136,7 +140,7 @@
     <url>
       <loc>http://padillla.github.io/2008/11/02/down-in-the-corner/</loc>
       
-        <lastmod>2008-11-02T00:23:14-06:00</lastmod>
+        <lastmod>2008-11-02T06:23:14+00:00</lastmod>
       
       <changefreq>monthly</changefreq>
       <priority>0.5</priority>
@@ -145,7 +149,7 @@
     <url>
       <loc>http://padillla.github.io/2008/11/01/make-me-feel-all-right/</loc>
       
-        <lastmod>2008-11-01T01:51:42-06:00</lastmod>
+        <lastmod>2008-11-01T07:51:42+00:00</lastmod>
       
       <changefreq>monthly</changefreq>
       <priority>0.5</priority>
@@ -154,16 +158,16 @@
     <url>
       <loc>http://padillla.github.io/2008/10/31/este-paraiso/</loc>
       
-        <lastmod>2008-10-31T03:13:47-06:00</lastmod>
+        <lastmod>2008-10-31T09:13:47+00:00</lastmod>
       
       <changefreq>monthly</changefreq>
       <priority>0.5</priority>
     </url>
   
     <url>
-      <loc>http://padillla.github.io/2008/10/30/me-asomo-al-mundo/</loc>
+      <loc>http://padillla.github.io/2008/10/31/me-asomo-al-mundo/</loc>
       
-        <lastmod>2008-10-30T23:40:42-06:00</lastmod>
+        <lastmod>2008-10-31T05:40:42+00:00</lastmod>
       
       <changefreq>monthly</changefreq>
       <priority>0.5</priority>
@@ -173,7 +177,11 @@
   <url>
     <loc>http://padillla.github.io/3DPrint</loc>
     
+<<<<<<< HEAD
       <lastmod>2017-05-01</lastmod>
+=======
+      <lastmod>2017-03-30</lastmod>
+>>>>>>> origin/master
     
     
       <changefreq>monthly</changefreq>
@@ -186,7 +194,11 @@
   <url>
     <loc>http://padillla.github.io/404.html</loc>
     
+<<<<<<< HEAD
       <lastmod>2017-05-01</lastmod>
+=======
+      <lastmod>2017-03-30</lastmod>
+>>>>>>> origin/master
     
     
       <changefreq>monthly</changefreq>
@@ -199,7 +211,11 @@
   <url>
     <loc>http://padillla.github.io/about/</loc>
     
+<<<<<<< HEAD
       <lastmod>2017-05-01</lastmod>
+=======
+      <lastmod>2017-03-30</lastmod>
+>>>>>>> origin/master
     
     
       <changefreq>monthly</changefreq>
@@ -212,7 +228,11 @@
   <url>
     <loc>http://padillla.github.io/atom.xml</loc>
     
+<<<<<<< HEAD
       <lastmod>2017-05-01</lastmod>
+=======
+      <lastmod>2017-03-30</lastmod>
+>>>>>>> origin/master
     
     
       <changefreq>monthly</changefreq>
@@ -225,7 +245,11 @@
   <url>
     <loc>http://padillla.github.io/contact</loc>
     
+<<<<<<< HEAD
       <lastmod>2017-05-01</lastmod>
+=======
+      <lastmod>2017-03-30</lastmod>
+>>>>>>> origin/master
     
     
       <changefreq>monthly</changefreq>
@@ -238,7 +262,24 @@
   <url>
     <loc>http://padillla.github.io/</loc>
     
+<<<<<<< HEAD
       <lastmod>2017-05-01</lastmod>
+=======
+      <lastmod>2017-03-30</lastmod>
+    
+    
+      <changefreq>monthly</changefreq>
+    
+    
+      <priority>0.3</priority>
+    
+  </url>
+  
+  <url>
+    <loc>http://padillla.github.io/roomies</loc>
+    
+      <lastmod>2017-03-30</lastmod>
+>>>>>>> origin/master
     
     
       <changefreq>monthly</changefreq>
@@ -251,7 +292,11 @@
   <url>
     <loc>http://padillla.github.io/sitemap.xml</loc>
     
+<<<<<<< HEAD
       <lastmod>2017-05-01</lastmod>
+=======
+      <lastmod>2017-03-30</lastmod>
+>>>>>>> origin/master
     
     
       <changefreq>monthly</changefreq>
@@ -264,7 +309,11 @@
   <url>
     <loc>http://padillla.github.io/page2/</loc>
     
+<<<<<<< HEAD
       <lastmod>2017-05-01</lastmod>
+=======
+      <lastmod>2017-03-30</lastmod>
+>>>>>>> origin/master
     
     
       <changefreq>monthly</changefreq>
@@ -277,7 +326,11 @@
   <url>
     <loc>http://padillla.github.io/page3/</loc>
     
+<<<<<<< HEAD
       <lastmod>2017-05-01</lastmod>
+=======
+      <lastmod>2017-03-30</lastmod>
+>>>>>>> origin/master
     
     
       <changefreq>monthly</changefreq>
@@ -290,7 +343,11 @@
   <url>
     <loc>http://padillla.github.io/page4/</loc>
     
+<<<<<<< HEAD
       <lastmod>2017-05-01</lastmod>
+=======
+      <lastmod>2017-03-30</lastmod>
+>>>>>>> origin/master
     
     
       <changefreq>monthly</changefreq>

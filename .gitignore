@@ -5,6 +5,7 @@ _site
 .sass-cache
 .jekyll-metadata
 
+
 # Numerous always-ignore extensions
 *.diff
 *.err
@@ -30,6 +31,7 @@ nbproject
 *.sublime-project
 *.sublime-workspace
 .idea
+.editorconfig
 
 # Komodo
 *.komodoproject
@@ -41,3 +43,4 @@ validation-report.json
 
 # Folders to ignore
 node_modules
+vendor/cache
