@@ -6,7 +6,7 @@ highlighter:      rouge
 permalink:        pretty
 
 # Setup
-title:            Fofo's cave
+title:            Fofo's thoughts cave
 tagline:          
 description:      ''
 url:              http://padillla.github.io
@@ -16,13 +16,14 @@ author:
   name:           'Rodolfo Padilla'
   twitter:         https://twitter.com/padillla
   facebook:        https://www.facebook.com/rodolfo.padillaruiz
-  repository:      padillla/padillla.github.io
+  linkedIn:        https://www.linkedin.com/in/r-padilla-ruiz/
 
 # Custom vars
 version:          1.0.0
 
-github:
-  repo:           https://github.com/padillla/padillla.github.io
+
+repository: padillla/padillla.github.io
+
 
 gems:    
   - github-pages
