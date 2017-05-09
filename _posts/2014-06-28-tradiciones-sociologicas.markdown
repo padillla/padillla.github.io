@@ -11,14 +11,13 @@ Esto son los "forros" que he creado definiendo de forma muy densa cada tradicion
 
 ###- Subjetivista y Estructural Funcionalista.png
 
-[![image](/public/img/t1.png)](/public/img/tradiciones_1.jpg)
+[![image](/assets/img/t1.png)](/assets/img/tradiciones_1.jpg)
 
 ### -Marxismo.png
 
-[![image](/public/img/t2.png)](/public/img/tradiciones_2.jpg)
+[![image](/assets/img/t2.png)](/assets/img/tradiciones_2.jpg)
 
 ###- Integracionismo y Postmodernindad.png
 
-[![image](/public/img/t3.png)](/public/img/tradiciones_3.jpg)
-
+[![image](/assets/img/t3.png)](/assets/img/tradiciones_3.jpg)
 

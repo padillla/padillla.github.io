@@ -1,0 +1,667 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"padi",
+				"padillla"
+			],
+			[
+				"con",
+				"convert"
+			],
+			[
+				"re",
+				"return"
+			],
+			[
+				"jso",
+				"jsonOBJ"
+			],
+			[
+				"js",
+				"jsonOBJ"
+			],
+			[
+				"j",
+				"jsonOBJ"
+			],
+			[
+				"fu",
+				"function"
+			],
+			[
+				"com",
+				"compraEuro"
+			],
+			[
+				"pa",
+				"params"
+			],
+			[
+				"h",
+				"honduras"
+			],
+			[
+				"g",
+				"guatemala"
+			],
+			[
+				"v",
+				"venta"
+			],
+			[
+				"l",
+				"log"
+			],
+			[
+				"c",
+				"console"
+			],
+			[
+				"t",
+				"title"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"contents": "---\nlayout: project\ntitle: All Projects\nexcerpt: \"A List of Projects\"\ncomments: false\n---\n\n\n",
+			"file": "projects/index.md",
+			"file_size": 90,
+			"file_write_time": 131280260520000000,
+			"settings":
+			{
+				"buffer_size": 92,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "posts/index.md",
+			"settings":
+			{
+				"buffer_size": 86,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "_layouts/project.html",
+			"settings":
+			{
+				"buffer_size": 1649,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "_layouts/post-list.html",
+			"settings":
+			{
+				"buffer_size": 1659,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "projects/3Dprint.md",
+			"settings":
+			{
+				"buffer_size": 4631,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "_config.yml",
+			"settings":
+			{
+				"buffer_size": 2015,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 101.0,
+		"last_filter": "Snippet: ",
+		"selected_items":
+		[
+			[
+				"Snippet: ",
+				"Snippet: #!/usr/bin/env"
+			],
+			[
+				"Package Control: inst",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 593.0
+	},
+	"console":
+	{
+		"height": 222.0,
+		"history":
+		[
+			"clear",
+			"var a",
+			"cd",
+			"help",
+			"dir",
+			"ls",
+			"clear",
+			"cls"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/D/Git/padillla.github.io/site.sublime-project",
+		"/D/Git/padillla.github.io/site.sublime-workspace",
+		"/D/Git/padillla.github.io/_posts/2014-06-28-tradiciones-sociologicas.markdown",
+		"/D/Git/padillla.github.io/3DPrinting/index.md",
+		"/D/Git/padillla.github.io/contact/index.md",
+		"/D/Git/padillla.github.io/about/index.md",
+		"/D/Git/padillla.github.io/_layouts/page.html",
+		"/D/Git/padillla.github.io/_includes/scripts.html",
+		"/D/Git/padillla.github.io/_includes/nav.html",
+		"/D/Git/padillla.github.io/Old/_includes/sidebar.html",
+		"/D/Git/padillla.github.io/README.md",
+		"/D/Git/padillla.github.io/_layouts/compress.html",
+		"/D/Git/padillla.github.io/Old/about.md",
+		"/D/Git/padillla.github.io/_site/index.html",
+		"/D/Git/padillla.github.io/_site/3DPrint.html",
+		"/D/Git/padillla.github.io/_layouts/home.html",
+		"/D/Git/padillla.github.io/index.html",
+		"/D/Git/padillla.github.io/Old/_config.yml",
+		"/D/Git/padillla.github.io/public/css/lanyon.css",
+		"/D/Git/padillla.github.io/blog/index.html",
+		"/D/Git/padillla.github.io/_config.yml",
+		"/C/Users/Padillla/Pictures/Docs/Moon-master/Moon-master/_posts/2013-08-16-code-highlighting-post.md",
+		"/C/Users/Padillla/Pictures/Docs/Moon-master/Moon-master/index.html",
+		"/D/Downloads/html5up-phantom/elements.html",
+		"/D/Git/padillla.github.io/_includes/sidebar.html",
+		"/D/Git/padillla.github.io/blog.html",
+		"/D/Git/padillla.github.io/3D Printing.md",
+		"/D/Git/padillla.github.io/_includes/head.html",
+		"/C/Users/Padillla/AppData/Local/Temp/NativeScript_CLI_Setup_20170503155353.log",
+		"/C/Users/Padillla/AppData/Local/Temp/NativeScript_CLI_Setup_20170503154519.log",
+		"/D/Git/roomiescr/_config.yml",
+		"/D/Git/roomiescr/README.md",
+		"/D/Git/padillla.github.io/about.md",
+		"/E/extensions/linkss/menu.json",
+		"/E/extensions/linkss/bin/linkss.sh",
+		"/E/extensions/linkss/config.xml",
+		"/E/linkjail/bin/kindletool",
+		"/E/linkjail/etc/whitelist",
+		"/D/Dropbox/Web (Selective Sync Conflict)/WP/GeosTelecom/logogeos-satelite-horizontal.png",
+		"/D/Dropbox/Web (Selective Sync Conflict)/WP/GeosTelecom/keypair_geostelecom.pem",
+		"/D/Git/amaliewanders.com/README.md",
+		"/D/Git/amaliewanders.com/_config.yml",
+		"/D/Git/amaliewanders.com/_includes/nav.html",
+		"/D/Git/roomies/cms/node_modules/mysql/lib/protocol/sequences/Sequence.js",
+		"/D/Git/roomies/cms/Roomies CR/index.js",
+		"/D/Git/roomies/cms/package.json",
+		"/C/Users/Padillla/Pictures/Docs/svgtest.html",
+		"/D/Git/TT/Gruntfile.js",
+		"/D/Robotics/strobe.js",
+		"/D/Git/TT/views/map.jade",
+		"/D/Git/TT/views/layout.jade",
+		"/D/Git/TT/views/trip.jade",
+		"/D/Git/discreetsolutions/index.html",
+		"/D/Git/discreetsolutions/_assets/stylesheets/application.scss",
+		"/D/Git/discreetsolutions/bin/deploy",
+		"/D/Dropbox/Work/Cole Price - Stratusclear/Discreet Solutions/fof/fof/index.html",
+		"/D/Git/discreetsolutions/_site/assets/.sprockets-manifest-ef0e57e80a3db2af3b1cbd1ce4b540a3.json",
+		"/D/Git/discreetsolutions/bin/setup",
+		"/D/Git/discreetsolutions/.gitignore",
+		"/D/Dropbox/Work/Cole Price - Stratusclear/Discreet Solutions/fof/fof/stylesheet.css",
+		"/D/Dropbox/Work/Cole Price - Stratusclear/Discreet Solutions/fof/fof/fof/stylesheet.css",
+		"/D/Dropbox/Work/Cole Price - Stratusclear/Discreet Solutions/fof/fof/fof/index.html",
+		"/C/Users/Padillla/AppData/Local/Google/Chrome/User Data/Default/Extensions/peldkgicldgmbampajgepnigbpkhomoh/5.3_0/manifest.json",
+		"/D/Git/discreetsolutions/assets/application.css",
+		"/D/Git/discreetsolutions/Gemfile",
+		"/D/Dropbox/Work/Cole Price - Stratusclear/Discreet Solutions/fof/index.html",
+		"/D/Git/discreetsolutions/index.md",
+		"/D/Downloads/nightwatch-0.9.12/nightwatch-0.9.12/README.md",
+		"/D/Git/discreetsolutions/assets/application.js",
+		"/D/Dropbox/Work/Cole Price - Stratusclear/Discreet Solutions/fof/stylesheet.css",
+		"/D/Dropbox/Work/Cole Price - Stratusclear/html5up-dimension/assets/js/skel.min.js",
+		"/D/Dropbox/Work/Cole Price - Stratusclear/html5up-dimension/assets/js/util.js",
+		"/C/Users/Padillla/Pictures/Docs/htmml.txt",
+		"/D/Dropbox/Work/Cole Price - Stratusclear/html5up-dimension/index.html",
+		"/C/Users/Padillla/AppData/Roaming/Sublime Text 3/Packages/HTML-CSS-JS Prettify/Default (Windows).sublime-keymap",
+		"/D/Git/webhook-cms/tasks/deploy.js",
+		"/D/Dropbox/Work/Remote Job Applications/Customer.io/CustomerioTest/app.js",
+		"/D/Git/webhook-cms/discreet-solutions/test/generate.js",
+		"/D/Dropbox/Work/Cole Price - Stratusclear/discreetsolutions tasks",
+		"/D/Dropbox/Work/Remote Job Applications/Customer.io/Test/app.js",
+		"/D/Git/webhook-cms/package.json",
+		"/D/Git/webhook-cms/Gruntfile.js",
+		"/D/Docs/SynKernelDiag2015-10-13_09-39-44.log",
+		"/C/Program Files/OpenVPN/config/client.ovpn",
+		"/C/Program Files/OpenVPN/config/server.ovpn",
+		"/D/Git/discreetsolutions/gulpfile.js",
+		"/D/Git/discreetsolutions/_config.yml",
+		"/D/Git/discreetsolutions/discreetsolutions/.gitignore",
+		"/C/Users/Padillla/AppData/Local/Google/Chrome/User Data/Default/Extensions/pccckmaobkjjboncdfnnofkonhgpceea/1.0.95_0/plugins/instagram_a.js",
+		"/E/octopi-network.txt",
+		"/E/config.txt",
+		"/E/cmdline.txt",
+		"/E/octopi.txt",
+		"/E/issue.txt",
+		"/E/cmdline-pi-tft.txt",
+		"/D/Git/autm-rb/archive.html",
+		"/D/Git/TT/leaflet-src.map",
+		"/C/Users/Padillla/Pictures/Docs/bookmarks10272016.html",
+		"/D/W3rk/venusMX conf email.html",
+		"/D/Git/sportsnscience/_config.yml",
+		"/D/Dropbox/Work/postcard-curl-test.sh",
+		"/D/Docs/GitHub/cilob/contact/index.html",
+		"/D/Git/padillla.github.io/Gemfile",
+		"/D/Git/autm-rb/_data/theme.yml",
+		"/D/Downloads/termsandconditionsStandalone.properties",
+		"/D/W3rk/OralBfrfrprod.2016-07-25T07_06_52.xml",
+		"/D/W3rk/OralBfrfrprod.xml",
+		"/D/W3rk/H&S FR CA Feed.xml",
+		"/C/Users/Padillla/AppData/Local/Temp/Rar$DIa0.702/Clairoles-USdatafeed.xml",
+		"/C/Users/Padillla/Pictures/Docs/remoteworkbookmarks742016.html",
+		"/D/W3rk/gillette_product_feed_kr_5.4_v0_03May16.2016-05-04T07_03_20.xml",
+		"/D/3D Prints/Models/luffy skull Base_v2.gcode",
+		"/D/Git/padillla.github.io/.gitignore",
+		"/C/Program Files (x86)/Nmap/scripts/http-cisco-anyconnect.nse",
+		"/D/Git/padillla.github.io/_layouts/default.html",
+		"/D/Git/padillla.github.io/_includes/ga.html",
+		"/D/Git/padillla.github.io/contact.md",
+		"/D/Git/padillla.github.io/404.html",
+		"/D/Dropbox/Public/printrbotLeveling.gcode",
+		"/D/3D Prints/Models/limits test.gcode",
+		"/D/Git/padillla.github.io/projects.md",
+		"/D/W3rk/GilletteMxBVFeedFinal.2016-04-18T07_00_58.xml",
+		"/D/W3rk/Salesforce Syndication Script",
+		"/D/Git/padillla.github.io/atom.xml",
+		"/D/Git/padillla.github.io/work.md",
+		"/D/W3rk/feed-2016-03-08T13_35_28.0136953+00_00.xml",
+		"/C/Ruby22/Devkit/config.yml",
+		"/D/Dropbox/Stuff/Bac-webscrapper/BACScapper/README"
+	],
+	"find":
+	{
+		"height": 43.0
+	},
+	"find_in_files":
+	{
+		"height": 102.0,
+		"where_history":
+		[
+			"D:\\Git\\padillla.github.io",
+			"D:\\Git\\discreetsolutions",
+			"D:\\Git\\padillla.github.io",
+			"<current file>",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"<img src=\"assets/img/logo.png\" class=\"img-circle zoombtn animated rotateIn\">",
+			"logo.png",
+			"gist",
+			"paginator",
+			"font-size",
+			"Cole Price, [",
+			"logo.html",
+			"sitemap",
+			"&",
+			"",
+			"●",
+			"layer",
+			"[{Wait,2000}]",
+			"[{Wait,3000}]",
+			"[{Wait,4000}]",
+			"[{Wait,2200}]",
+			"[{Wait,50}]",
+			"[{Wait,2200}]",
+			"[{Wait,50}]",
+			".\n",
+			"-1_t.",
+			"     \tvar elSalvador=json.exchangeRates.country[1];\n     \tdelete elSalvador.link;\n",
+			"costa rica",
+			"\n});",
+			"type",
+			"servo",
+			"10",
+			"40",
+			"10",
+			"wait",
+			"50",
+			"100",
+			"wait",
+			"enter",
+			"wait",
+			"enter",
+			"AgeYear"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"\n",
+			" \n\n\n ",
+			"[{Wait,50}]",
+			"[{Wait,2000}]",
+			"[{Wait,3000}]",
+			"[{Wait,4000}]",
+			"[{Wait,2200}]",
+			"[{Wait,50}]",
+			"[{Wait,2200}]",
+			"."
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 4,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "projects/index.md",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 92,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								91,
+								91
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Markdown/Markdown.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "posts/index.md",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 86,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								86,
+								86
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Markdown/Markdown.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "_layouts/project.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1649,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								915,
+								915
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "_layouts/post-list.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1659,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1027,
+								1027
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "projects/3Dprint.md",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4631,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								154,
+								154
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Markdown/Markdown.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 5,
+					"file": "_config.yml",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2015,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								908,
+								908
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/YAML/YAML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.544499381953,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "site.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 490.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 715.0
+	},
+	"selected_group": 1,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 295.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
