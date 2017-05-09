@@ -18,11 +18,11 @@ This blog is a central place for me to publish my ideas on programming, sociolog
 sorts of other things I am interested in and cannot seriously publish elsewhere.
 In the very unlikely case that the Internet cares about my personal development, I might post some progress in some projects I am working on.
 
-Among many things I love doing, [I try to make at least 60km on the bike every week](https://www.strava.com/athletes/11810919), and plan to improve as long as time allows it. My other porsue is to become a windsurfer, but more of a luxury at this point. Follow me on strava, I might even get you into the cycling thing. Its very rewarding.
+Among many things I love doing, [I try to bike at least 60km every week](https://www.strava.com/athletes/11810919), and plan to improve as long as time allows it. Follow me on strava. Its very rewarding.
 [I also do some 3d printing and robotics as a hobby.]({{site.baseurl}}/3DPrint)
 If ever try doing some sort of art or music again, I might post it. Be afraid.
-
-I am also an electrician, a computer technician and builder, I have experience creating industrial automation systems, robotics and I'm very efficient at changing lightbulbs.
+But also be aware that I procrastinate. This site holds me accountable.
+I am also an electrician, a computer technician and builder, I creste industrial automation systems, robotics and I'm very efficient at changing lightbulbs.
 
 ### Some online presence
 
