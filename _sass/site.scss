@@ -20,8 +20,9 @@ body {
 	background-position: center center;
 	background-attachment: fixed;
 	@media #{$small} {
-	    background-image: none !important;
-		background: $white;
+	   // background-image: none !important;
+		//background: $white;
+		opacity : 0.3;
 	}
 }
 * {
@@ -42,9 +43,11 @@ body {
 	color: $white;
 	@media #{$small} {
 		display: block !important;
+		opacity: 0.9;
 	}
 	@media only screen and (max-height: 500px) {
 	    display: block !important;
+	    opacity: 0.9;
 	}
 }
 .flex {
