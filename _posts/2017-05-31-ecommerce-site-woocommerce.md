@@ -2,7 +2,7 @@
 published: false
 layout: post
 project: true
-date: {}
+date: 2017-05-31T00:00:00.000Z
 excerpt: 'Creation of an ecommerce site using Wordpress, WooCommerce and Google'
 tag:
   - wordpress
