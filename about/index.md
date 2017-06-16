@@ -2,6 +2,7 @@
 title: About
 layout: page
 comments: false
+published: true
 ---
 
 Hi, I'm **Rodolfo Padilla**. I'm a student at
@@ -10,12 +11,11 @@ Hi, I'm **Rodolfo Padilla**. I'm a student at
 include, computer science, sociology and others.
 
 
-Currently working as an IT Specialist at [NI](http://www.ni.com/).
+Currently working as an Systems technician at [Transperfect](http://www.transperfect.com/).
 
 I like to be constanly learning. Since I was a kid my passion is deconstruct and rebuild things from scratch. Usually leaving some screws out. I used to explode dead electronic cards for the mayhem and the toxic smoke they produce, just for the fun of wearing gasmasks.
 
-This blog is a central place for me to publish my ideas on programming, sociology, mathematics, philosophy, astronomy and all
-sorts of other things I am interested in and cannot seriously publish elsewhere.
+This blog is a central place for me to publish my ideas on programming, sociology, mathematics, philosophy, astronomy and all sorts of other things I am interested in and cannot seriously publish elsewhere.
 In the very unlikely case that the Internet cares about my personal development, I might post some progress in some projects I am working on.
 
 Among many things I love doing, [I try to bike at least 60km every week](https://www.strava.com/athletes/11810919), and plan to improve as long as time allows it. Follow me on strava. Its very rewarding.
