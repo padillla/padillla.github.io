@@ -9,6 +9,7 @@ Me he quebrado la clavicula. Me han operado y parece que tengo un mordisco en mi
 Fue un Un accidente tan corriente que no vale la pena acordarse.
 Serán casi 2 meses incapacitado y al menos 3 recuperando el movimiento. Por un puto huesito de un centímetro. 
 
+
  He decidido sacar provecho de este monton de tiempo libre. 
 
 Solo me funciona una mano. 
