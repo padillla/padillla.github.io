@@ -18,4 +18,4 @@ Quiero sembrar, y hacerlo de forma automatizada. Comida principalmente. Hace poc
 
 Todo eso quiero y no quiero sentarme a esperar que esas cosas me pasen por casualidad. 
 
-Seguiré trabajando en ello.
+Seguiré trabajando en ello. 
