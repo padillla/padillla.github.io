@@ -1,8 +1,8 @@
 ---
-layout: post
 title: Cuando dejamos de poner excusas
+date: 2017-04-03 00:00:00 Z
+layout: post
 ---
-
 
 A alguna hora uno se pone a pensar en retomar proyectos y metas. 
 Cuando uno ha pasado los dos últimos años rebotando demasiado, desea que al menos, sean para bien. 

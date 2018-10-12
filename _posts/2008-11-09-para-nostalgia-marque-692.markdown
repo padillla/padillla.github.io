@@ -1,17 +1,17 @@
 ---
-author: rodolfopr338
-comments: true
-date: 2008-11-09 12:15:17+00:00
-layout: post
-slug: para-nostalgia-marque-692
 title: Para nostalgia, marque 692
-wordpress_id: 104
+date: 2008-11-09 12:15:17 Z
 tags:
 - Nostalgia
 - Pendejadas
 - Sabalito
 - Tilaran
+author: rodolfopr338
+comments: true
+layout: post
+wordpress_id: 104
 ---
+
 <!-- more -->
 
 Me he despertado hace ratillo, luego de haberme dormido viendo una mala pelicula de Cameron Díaz en cinecanal. 

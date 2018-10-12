@@ -1,6 +1,7 @@
 ---
-layout: post
 title: Huesos rotos
+date: 2018-06-03 00:00:00 Z
+layout: post
 ---
 
 Un dia la vida te quiebra en el hueso hijueputa ese que nadie debe joderse.

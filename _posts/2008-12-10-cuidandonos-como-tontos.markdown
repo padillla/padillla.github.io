@@ -1,15 +1,15 @@
 ---
-author: rodolfopr338
-comments: true
-date: 2008-12-10 19:20:49+00:00
-layout: post
-slug: cuidandonos-como-tontos
 title: Cuidándonos como tontos
-wordpress_id: 138
+date: 2008-12-10 19:20:49 Z
 tags:
 - Estupidez Humana
 - Inseguridad
+author: rodolfopr338
+comments: true
+layout: post
+wordpress_id: 138
 ---
+
 <!-- more -->
 La situación de inseguridad que se maneja en estos días es tal, que nos ha hecho tomar acciones con las que creemos nos evitamos que una o más ratas vayan a dejarnos limpios como la conciencia de una monja.
 

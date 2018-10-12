@@ -1,3 +1,8 @@
+---
+title: Day Biscuit
+date: 2018-09-11 00:00:00 Z
+---
+
 Hoy aprendí por enésima vez que aprender es un proceso que nunca acaba. Por esto he decidido que como minimo escribire 1 lección diaria, por banal, profunda, o absurda que sea. 
 Quiza asi le pierdo el miedo a escribir. Quiza use un hashtag o alguna otra tontera para filtrarlos.
 

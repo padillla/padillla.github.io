@@ -1,10 +1,9 @@
 ---
+title: Tilaran
+date: 2014-02-02 17:31:00 Z
 author: rodolfopr338
 comments: true
-date: 2014-02-02 17:31:00+00:00
 layout: post
-slug: tilaran
-title: Tilaran
 wordpress_id: 239
 ---
 

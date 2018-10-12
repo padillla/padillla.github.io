@@ -1,75 +1,59 @@
-# Site
-title:              Fofo's thoughts cave
-description:        "Rodolfo Padilla's personal site"
-reading_time:       true
-words_per_minute:   200
-logo:               'assets/img/logo.jpg'
-background:         'assets/img/bg-big.jpg'
-tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
-locale:             en_US
-url:                https://fofopadilla.me
-
-# Jekyll
-permalink:          /:title/
-markdown:           kramdown
-highlighter:        rouge
+---
+title: Fofo's thoughts cave
+timezone: UTC
+collections:
+  posts:
+    title: Posts
+    output: true
+  uploads:
+    title: Uploads
+    output: true
+description: Rodolfo Padilla's personal site
+reading_time: true
+words_per_minute: 200
+logo: assets/img/logo.jpg
+background: assets/img/bg-big.jpg
+tiled_bg: false
+locale: en_US
+url: https://fofopadilla.me
+permalink: "/:title/"
+markdown: kramdown
+highlighter: rouge
 kramdown:
-  auto_ids:         true
-  footnote_nr:      1
-  entity_output:    as_char
-  toc_levels:       1..6
-  enable_coderay:   false
-mathjax:            true
+  auto_ids: true
+  footnote_nr: 1
+  entity_output: as_char
+  toc_levels: 1..6
+  enable_coderay: false
+mathjax: true
 sass:
-  sass_dir:         _sass
-  style:            compressed
-
-# Comments
-disqus_shortname:   padillla
-
-# Social
-# if you don't have any of social below, comment the line.
+  sass_dir: _sass
+  style: compressed
+disqus_shortname: padillla
 google:
-  #plus:            #username
-  analytics:        UA-42515809-1
-  #verify:
-  #ad-client:
-  #ad-slot:
-#bing-verify:
-#email:
-twitter:            padillla
-facebook:           fofopadilla
-github-url:         padillla
-#stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
-linkedin:           r-padilla-ruiz
-#xing:              username
-instagram:          fofopadillla
-#lastfm:            username
-#tumblr:            username
-#medium:            '@username'
-#pinterest:         username
-#foursquare:        username
-#steam:              username
-#dribbble:          username
-#youtube:           username
-#youtube-channel:   channelusername
-#soundcloud:        
-#weibo:             username
-#flickr:            username
-#codepen:           username
-#keybase:           username
-#xmpp:              username@server.com
-#hackernews:        username
-
-# Gems
+  analytics: UA-42515809-1
+twitter: padillla
+facebook: fofopadilla
+github-url: padillla
+linkedin: r-padilla-ruiz
+instagram: fofopadillla
 gems:
-  - jekyll-mentions
-  - jekyll-feed
-  - jekyll-sitemap
-  - jekyll-gist
-
+- jekyll-mentions
+- jekyll-feed
+- jekyll-sitemap
+- jekyll-gist
 jekyll-mentions:
-    base_url: https://github.com
-
-# Exclude list
-exclude: [README.md, Gemfile, Gemfile.lock, node_modules, gulpfile.js, package.json, _site, src, vendor, CNAME, LICENSE, Rakefile]
+  base_url: https://github.com
+exclude:
+- README.md
+- Gemfile
+- Gemfile.lock
+- node_modules
+- gulpfile.js
+- package.json
+- _site
+- src
+- vendor
+- CNAME
+- LICENSE
+- Rakefile

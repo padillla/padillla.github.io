@@ -1,11 +1,6 @@
 ---
-author: rodolfopr338
-comments: true
-date: 2008-11-14 21:39:54+00:00
-layout: post
-slug: where-in-the-earth-is-wally
 title: Where in the earth is Wally
-wordpress_id: 99
+date: 2008-11-14 21:39:54 Z
 tags:
 - google earth
 - Los Zumbis
@@ -13,7 +8,12 @@ tags:
 - Se la juega??
 - Waldo
 - Wally
+author: rodolfopr338
+comments: true
+layout: post
+wordpress_id: 99
 ---
+
 <!-- more -->
 [![whereswally](http://sinjeta.files.wordpress.com/2008/11/whereiswally.jpg)](http://sinjeta.files.wordpress.com/2008/11/whereiswally.jpg)
 

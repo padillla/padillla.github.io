@@ -1,18 +1,18 @@
 ---
-author: rodolfopr338
-comments: true
-date: 2008-11-11 08:11:23+00:00
-layout: post
-published: false
-slug: asuntitos-de-fama-etc
 title: Asuntitos de fama...Etc.
-wordpress_id: 113
+date: 2008-11-11 08:11:23 Z
+published: false
 tags:
 - Etcetera
 - Fama
 - Pichudo
 - Podcast
+author: rodolfopr338
+comments: true
+layout: post
+wordpress_id: 113
 ---
+
 <!-- more -->
 [![etcpodcast](http://sinjeta.files.wordpress.com/2008/11/etc21.jpg)](http://etceterapodcast.com/)
 

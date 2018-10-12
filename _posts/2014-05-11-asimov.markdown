@@ -1,17 +1,17 @@
 ---
-author: rodolfopr338
-comments: true
-date: 2014-05-11 18:09:35+00:00
-layout: post
-slug: asimov
 title: Asimov
-wordpress_id: 241
+date: 2014-05-11 18:09:35 Z
+permalink: asimov
 tags:
 - Asimov
 - Ciencia
 - Mentes.
-permalink: asimov
+author: rodolfopr338
+comments: true
+layout: post
+wordpress_id: 241
 ---
+
 <!-- more -->
 He descubierto a Isaac Asimov, un autor que no deja de sorprenderme, con una narrativa que incita a preguntarse aun mas sobre la lo que fue su vision del futuro del mundo y de la humanidad en general.
 

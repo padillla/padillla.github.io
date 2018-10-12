@@ -1,17 +1,17 @@
 ---
-author: rodolfopr338
-comments: true
-date: 2008-11-03 21:00:31+00:00
-layout: post
-published: false
-slug: no-me-golpeo-el-pecho
 title: No me golpeo el pecho
-wordpress_id: 75
+date: 2008-11-03 21:00:31 Z
+published: false
 tags:
 - Noticias
 - Polemica
 - Religion
+author: rodolfopr338
+comments: true
+layout: post
+wordpress_id: 75
 ---
+
 <!-- more -->
 
 [![](http://sinjeta.files.wordpress.com/2008/11/platudo1.jpg)](http://sinjeta.files.wordpress.com/2008/11/platudo1.jpg)

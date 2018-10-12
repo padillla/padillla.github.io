@@ -1,17 +1,17 @@
 ---
-author: rodolfopr338
-comments: true
-date: 2008-11-22 07:04:43+00:00
-layout: post
-slug: inferno-solidez-natural
 title: Inferno, solidez nacional
-wordpress_id: 125
+date: 2008-11-22 07:04:43 Z
 tags:
 - Inferno
 - Solido
 - Tarro nacional
 - Thrash
+author: rodolfopr338
+comments: true
+layout: post
+wordpress_id: 125
 ---
+
 <!-- more -->
 Estuve hace poco en un concierto de unos compas , que tocan trash metal del bueno sin perdonarle nada a nadie. Son geniales.
 

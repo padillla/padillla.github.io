@@ -1,15 +1,15 @@
 ---
-author: rodolfopr338
-comments: true
-date: 2008-11-02 06:23:14+00:00
-layout: post
-slug: down-in-the-corner
 title: Down in the corner
-wordpress_id: 42
+date: 2008-11-02 06:23:14 Z
 tags:
 - Esquizofrenias
 - Musica
+author: rodolfopr338
+comments: true
+layout: post
+wordpress_id: 42
 ---
+
 <!-- more -->
 Es la cancion que un amigo me recomendo, no me la puedo sacar de la cabeza.
 A mas de uno le ocurre esto.

@@ -1,7 +1,9 @@
 ---
-layout: post
 title: lecciones
+date: 2018-10-12 16:28:04.474000000 Z
+layout: post
 ---
+
 ---
 layout: post
 title: Lecciones del dia y la semana

@@ -1,12 +1,12 @@
 ---
+title: Tren en norte y el sur
+date: 2014-01-25 05:11:41 Z
 author: rodolfopr338
 comments: true
-date: 2014-01-25 05:11:41+00:00
 layout: post
-slug: tren-en-norte-y-el-sur
-title: Tren en norte y el sur
 wordpress_id: 211
 ---
+
 <!-- more -->
 Seria genial tener un tren que viaje a Guanacaste y hacia Golfito o Buenos Aires. 
 Seria una buena forma de desarrollar lugares fuera de la GAM, sin necesariamente urbanizarlos.

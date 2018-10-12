@@ -1,16 +1,16 @@
 ---
-author: rodolfopr338
-comments: true
-date: 2008-10-31 09:13:47+00:00
-layout: post
-slug: este-paraiso
 title: Este paraiso...(?)
-wordpress_id: 18
+date: 2008-10-31 09:13:47 Z
 tags:
 - Berreo
 - Costa Rica
 - Noticias
+author: rodolfopr338
+comments: true
+layout: post
+wordpress_id: 18
 ---
+
 <!-- more -->
 Es dificil explicarse uno mismo cuando tenés un hervidero de ideas en la cabeza y no salen como deberia ser. Debo trabajar en eso. Y en un sueter nuevo.
 Bloggeando por alli [**me encuentro**](http://www.fusildechispas.com/2008/10/13/%c2%bfes-pecado-estar-harto/) algunas observaciones del señor Cristian Cambronero en su [**blog**](http://fusildechispas.com) ,respecto al desquiciado ajetreo nacional que nos tiene como estamos.

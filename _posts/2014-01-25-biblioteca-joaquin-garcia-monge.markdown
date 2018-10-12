@@ -1,12 +1,12 @@
 ---
+title: Biblioteca Joaquin Garcia Monge
+date: 2014-01-25 05:14:14 Z
 author: rodolfopr338
 comments: true
-date: 2014-01-25 05:14:14+00:00
 layout: post
-slug: biblioteca-joaquin-garcia-monge
-title: Biblioteca Joaquin Garcia Monge
 wordpress_id: 217
 ---
+
 <!-- more -->
 
 [![image](http://sinjeta.files.wordpress.com/2014/01/wpid-img_20140124_154032.jpg)](http://sinjeta.files.wordpress.com/2014/01/wpid-img_20140124_154032.jpg)

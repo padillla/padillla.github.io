@@ -1,11 +1,10 @@
 ---
+title: Mejorará.
+date: 2008-11-23 20:57:39 Z
+published: false
 author: rodolfopr338
 comments: true
-date: 2008-11-23 20:57:39+00:00
 layout: post
-published: false
-slug: mejorara
-title: Mejorará.
 wordpress_id: 129
 ---
 

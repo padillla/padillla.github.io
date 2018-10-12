@@ -1,16 +1,16 @@
 ---
-author: rodolfopr338
-comments: true
-date: 2008-11-06 22:12:06+00:00
-layout: post
-slug: quiero-ser-jirafa
 title: Quiero ser Jirafa
-wordpress_id: 95
+date: 2008-11-06 22:12:06 Z
 tags:
 - Jirafas
 - Tiempo
 - Vida
+author: rodolfopr338
+comments: true
+layout: post
+wordpress_id: 95
 ---
+
 <!-- more -->
 ![jirafa](http://sinjeta.files.wordpress.com/2008/11/jirafa.jpg)
 

@@ -1,12 +1,12 @@
 ---
+title: Vote por el espacio.
+date: 2014-02-03 00:33:41 Z
 author: rodolfopr338
 comments: true
-date: 2014-02-03 00:33:41+00:00
 layout: post
-slug: solo-quiero-tirar-ideas
-title: Vote por el espacio.
 wordpress_id: 223
 ---
+
 <!-- more -->
 
 Estuve votando en Tilaran, decidi por Jose Maria V, decision que tome cuando tenia la papeleta al frente. 

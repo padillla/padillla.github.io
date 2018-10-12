@@ -1,15 +1,15 @@
 ---
-author: rodolfopr338
-comments: true
-date: 2008-11-03 01:55:09+00:00
-layout: post
-slug: fama-efimera
 title: Fama efimera
-wordpress_id: 45
+date: 2008-11-03 01:55:09 Z
 tags:
 - amigos
 - Fama
+author: rodolfopr338
+comments: true
+layout: post
+wordpress_id: 45
 ---
+
 <!-- more -->
 Seria como:
 

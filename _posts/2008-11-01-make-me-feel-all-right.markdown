@@ -1,16 +1,16 @@
 ---
-author: rodolfopr338
-comments: true
-date: 2008-11-01 07:51:42+00:00
-layout: post
-slug: make-me-feel-all-right
 title: Make me feel all right....
-wordpress_id: 32
+date: 2008-11-01 07:51:42 Z
 tags:
 - Cool feelings
 - Ustedes
 - yo
+author: rodolfopr338
+comments: true
+layout: post
+wordpress_id: 32
 ---
+
 <!-- more -->
 Un arroz con atun.
 Dormir en en el piso. O en cualquier parte.

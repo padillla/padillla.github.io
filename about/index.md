@@ -2,7 +2,6 @@
 title: About
 layout: page
 comments: false
-published: true
 ---
 
 Hi, I'm **Rodolfo Padilla**. I'm a student at

@@ -1,15 +1,15 @@
 ---
-author: rodolfopr338
-comments: true
-date: 2008-10-31 05:40:42+00:00
-layout: post
-slug: me-asomo-al-mundo
 title: Me asomo
-wordpress_id: 3
+date: 2008-10-31 05:40:42 Z
 tags:
 - Blog
 - yo
+author: rodolfopr338
+comments: true
+layout: post
+wordpress_id: 3
 ---
+
 <!-- more -->
 [![](http://sinjeta.files.wordpress.com/2008/10/measomo2.jpg)](http://sinjeta.files.wordpress.com/2008/10/measomo2.jpg)
 

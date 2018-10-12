@@ -1,17 +1,17 @@
 ---
-author: rodolfopr338
-comments: true
-date: 2008-12-08 19:18:15+00:00
-layout: post
-slug: quien-la-cago-este-ano
 title: Quien la cago este año???
-wordpress_id: 134
+date: 2008-12-08 19:18:15 Z
 tags:
 - Actualidad
 - Costa Rica
 - Encuestas
 - Verguenzas
+author: rodolfopr338
+comments: true
+layout: post
+wordpress_id: 134
 ---
+
 <!-- more -->
 
 ![descaradamente tomado del fusil](http://sinjeta.files.wordpress.com/2008/12/antip1.jpg)

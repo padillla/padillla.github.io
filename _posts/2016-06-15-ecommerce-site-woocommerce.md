@@ -1,17 +1,19 @@
 ---
+title: Ecommerce Site Woocommerce
+date: 2016-06-15 00:00:00 Z
 published: false
+tags:
+- wordpress
+- woocommerce
+- ecommerce
+- tutorial
 layout: post
 project: true
-date: 2016-06-15T00:00:00.000Z
-excerpt: 'Creation of an ecommerce site using Wordpress, WooCommerce and Google'
-tag:
-  - wordpress
-  - woocommerce
-  - ecommerce
-  - tutorial
+excerpt: Creation of an ecommerce site using Wordpress, WooCommerce and Google
 comments: true
-feature: /assets/img/store.jpg
+feature: "/assets/img/store.jpg"
 ---
+
 ## Ecommerce website creation with WooCommerce from scratch
 
 
