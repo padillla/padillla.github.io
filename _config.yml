@@ -1,5 +1,5 @@
 ---
-title: Fofo's thoughts cave
+title:
 timezone: America/Guatemala
 collections:
   posts:
@@ -11,7 +11,8 @@ collections:
 description: Rodolfo Padilla's personal site
 reading_time: true
 words_per_minute: 200
-logo: assets/img/logo.jpg
+logo: ../assets/img/logo.jpg
+headshot : ../assets/img/headshot.jpg
 background: assets/img/tile.png
 tiled_bg: true
 locale: en_US
