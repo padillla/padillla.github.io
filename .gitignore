@@ -4,3 +4,4 @@ _site/
 .sublime-project
 .sublime-workspace
 *.sublime-workspace
+.editorconfig
