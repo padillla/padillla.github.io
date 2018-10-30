@@ -1,5 +1,5 @@
 ---
-title:
+title: Rodolfo Padilla
 timezone: America/Costa Rica
 collections:
   posts:
@@ -8,7 +8,7 @@ collections:
   uploads:
     title: Uploads
     output: true
-description: Rodolfo Padilla's personal site
+description: Fofo's personal site
 reading_time: true
 words_per_minute: 200
 logo: ../assets/img/logo.jpg
