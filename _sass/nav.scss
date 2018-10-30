@@ -94,6 +94,16 @@
 			outline: none;
 			text-decoration: none;
 		}
+		span{
+			display: block;
+			position: relative;
+			padding: 10px 20px;
+			@include font-rem(14);
+			line-height: 20px;
+			font-weight: 400;
+			outline: none;
+			text-decoration: none;			
+		}
 		&.dl-back > a {
 			padding-left: 30px;
 			background: rgba(0,0,0,0.2);

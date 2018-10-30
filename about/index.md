@@ -3,6 +3,7 @@ title: About
 layout: page
 comments: false
 ---
+<img src="{{ site.headshot }}" class="img-circle zoombtn animated fadeIn">
 
 Hi, I'm **Rodolfo Padilla**. I'm a student at
 [UNED](http://www.uned.ac.cr/) in the
@@ -17,7 +18,7 @@ I like to be constanly learning. Since I was a kid my passion is deconstruct and
 This blog is a central place for me to publish my ideas on programming, sociology, mathematics, philosophy, astronomy and all sorts of other things I am interested in and cannot seriously publish elsewhere.
 In the very unlikely case that the Internet cares about my personal development, I might post some progress in some projects I am working on.
 
-Among many things I love doing, [I try to bike at least 60km every week](https://www.strava.com/athletes/11810919), and plan to improve as long as time allows it. Follow me on strava. Its very rewarding.
+Among many things I love doing, [I try to bike at least 100km every week](https://www.strava.com/athletes/11810919), and plan to improve as long as time allows it. Follow me on strava. Its very rewarding.
 [I also do some 3d printing and robotics as a hobby.]({{site.baseurl}}/3Dprint/)
 If ever try doing some sort of art or music again, I might post it. Be afraid.
 But also be aware that I procrastinate. This site holds me accountable.

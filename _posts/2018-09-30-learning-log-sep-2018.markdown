@@ -5,6 +5,8 @@ tags:
 - learning
 - aws
 - git
+comments: true
+layout: post
 ---
 
 -Git branching   [[**1**]](http://lab.github.com)      [[**2**]](https://git-scm.com/book/en/v1/Git-Branching-What-a-Branch-Is)

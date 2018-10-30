@@ -1,6 +1,6 @@
 ---
-title: Fofo's thoughts cave
-timezone: America/Guatemala
+title: Rodolfo Padilla
+timezone: America/Costa Rica
 collections:
   posts:
     title: Posts
@@ -8,14 +8,15 @@ collections:
   uploads:
     title: Uploads
     output: true
-description: Rodolfo Padilla's personal site
+description: Fofo's personal site
 reading_time: true
 words_per_minute: 200
-logo: assets/img/logo.jpg
-background: assets/img/bg-big.jpg
-tiled_bg: false
+logo: ../assets/img/logo.jpg
+headshot : ../assets/img/headshot.jpg
+background: assets/img/tile.png
+tiled_bg: true
 locale: en_US
-url: https://fofopadilla.me
+url:
 permalink: "/:title/"
 markdown: kramdown
 highlighter: rouge
