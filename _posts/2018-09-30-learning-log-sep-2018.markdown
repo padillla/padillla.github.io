@@ -7,7 +7,7 @@ tags:
 - git
 ---
 
--Git branching[[**1**]](http://lab.github.com)      [   [**2**]   ](https://git-scm.com/book/en/v1/Git-Branching-What-a-Branch-Is)
+-Git branching   [[**1**]](http://lab.github.com)      [   [**2**]   ](https://git-scm.com/book/en/v1/Git-Branching-What-a-Branch-Is)
 
 -AWS Elastic Load Balancing[ [**1**] ](https://docs.bitnami.com/aws/how-to/configure-elb-ssl-aws/)[ [**2**] ](https://www.aws.training)
 
