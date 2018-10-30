@@ -12,10 +12,10 @@ description: Rodolfo Padilla's personal site
 reading_time: true
 words_per_minute: 200
 logo: assets/img/logo.jpg
-background: assets/img/bg-big.jpg
-tiled_bg: false
+background: assets/img/tile.png
+tiled_bg: true
 locale: en_US
-url: https://fofopadilla.me
+url:
 permalink: "/:title/"
 markdown: kramdown
 highlighter: rouge
