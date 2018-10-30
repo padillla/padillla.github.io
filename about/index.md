@@ -3,6 +3,7 @@ title: About
 layout: page
 comments: false
 ---
+
 <img src="{{ site.headshot }}" class="img-circle zoombtn animated fadeIn">
 
 Hi, I'm **Rodolfo Padilla**. I'm a student at

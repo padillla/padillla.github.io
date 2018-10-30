@@ -11,12 +11,12 @@ collections:
 description: Fofo's personal site
 reading_time: true
 words_per_minute: 200
-logo: ../assets/img/logo.jpg
-headshot : ../assets/img/headshot.jpg
+logo: "../assets/img/logo.jpg"
+headshot: "../assets/img/headshot.jpg"
 background: assets/img/tile.png
 tiled_bg: true
 locale: en_US
-url:
+url: 
 permalink: "/:title/"
 markdown: kramdown
 highlighter: rouge
