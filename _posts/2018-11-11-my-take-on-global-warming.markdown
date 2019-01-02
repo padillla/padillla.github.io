@@ -11,7 +11,6 @@ tags:
 - humans
 - politics
 comments: true
-
 ---
 
 It's okay to doubt science, all body of it is built on centuries of doubts and questions.
