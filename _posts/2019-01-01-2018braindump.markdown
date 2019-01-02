@@ -1,6 +1,7 @@
 ---
 title: 2018 Braindump
 date: 2019-01-01 12:37:00 -06:00
+layout: post
 ---
 
 Este 2018 fue un año vacío.
