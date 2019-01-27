@@ -1,6 +1,6 @@
 ---
 title: Ecommerce Site Woocommerce
-date: 2016-06-15 00:00:00 Z
+date: 2016-06-14 19:00:00 -05:00
 published: false
 tags:
 - wordpress

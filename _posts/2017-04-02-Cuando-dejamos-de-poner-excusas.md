@@ -1,6 +1,6 @@
 ---
 title: Cuando dejamos de poner excusas
-date: 2017-04-03 00:00:00 Z
+date: 2017-04-02 19:00:00 -05:00
 layout: post
 ---
 

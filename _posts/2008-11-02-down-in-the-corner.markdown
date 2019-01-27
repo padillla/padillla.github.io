@@ -1,6 +1,6 @@
 ---
 title: Down in the corner
-date: 2008-11-02 06:23:14 Z
+date: 2008-11-02 01:23:14 -05:00
 tags:
 - Esquizofrenias
 - Musica

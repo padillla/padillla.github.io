@@ -1,6 +1,6 @@
 ---
 title: Asuntitos de fama...Etc.
-date: 2008-11-11 08:11:23 Z
+date: 2008-11-11 02:11:23 -06:00
 published: false
 tags:
 - Etcetera

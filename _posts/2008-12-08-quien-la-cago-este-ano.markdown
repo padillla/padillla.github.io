@@ -1,6 +1,6 @@
 ---
 title: Quien la cago este año???
-date: 2008-12-08 19:18:15 Z
+date: 2008-12-08 13:18:15 -06:00
 tags:
 - Actualidad
 - Costa Rica

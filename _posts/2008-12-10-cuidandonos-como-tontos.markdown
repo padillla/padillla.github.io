@@ -1,6 +1,6 @@
 ---
 title: Cuidándonos como tontos
-date: 2008-12-10 19:20:49 Z
+date: 2008-12-10 13:20:49 -06:00
 tags:
 - Estupidez Humana
 - Inseguridad

@@ -1,6 +1,6 @@
 ---
 title: Mejorará.
-date: 2008-11-23 20:57:39 Z
+date: 2008-11-23 14:57:39 -06:00
 published: false
 author: rodolfopr338
 comments: true
