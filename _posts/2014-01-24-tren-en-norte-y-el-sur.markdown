@@ -1,6 +1,6 @@
 ---
 title: Tren en norte y el sur
-date: 2014-01-25 05:11:41 Z
+date: 2014-01-24 23:11:41 -06:00
 author: rodolfopr338
 comments: true
 layout: post

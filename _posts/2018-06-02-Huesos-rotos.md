@@ -1,6 +1,6 @@
 ---
 title: Huesos rotos
-date: 2018-06-03 00:00:00 Z
+date: 2018-06-02 19:00:00 -05:00
 layout: post
 ---
 

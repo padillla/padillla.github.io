@@ -1,6 +1,6 @@
 ---
 title: Printrbot v2.03
-date: 2018-06-26 00:00:00 Z
+date: 2018-06-25 19:00:00 -05:00
 ---
 
 ## A New Post

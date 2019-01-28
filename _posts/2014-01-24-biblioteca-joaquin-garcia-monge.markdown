@@ -1,6 +1,6 @@
 ---
 title: Biblioteca Joaquin Garcia Monge
-date: 2014-01-25 05:14:14 Z
+date: 2014-01-24 23:14:14 -06:00
 author: rodolfopr338
 comments: true
 layout: post

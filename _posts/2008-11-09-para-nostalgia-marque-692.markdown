@@ -1,6 +1,6 @@
 ---
 title: Para nostalgia, marque 692
-date: 2008-11-09 12:15:17 Z
+date: 2008-11-09 06:15:17 -06:00
 tags:
 - Nostalgia
 - Pendejadas

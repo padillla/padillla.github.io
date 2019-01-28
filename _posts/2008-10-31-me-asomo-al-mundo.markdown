@@ -1,6 +1,6 @@
 ---
 title: Me asomo
-date: 2008-10-31 05:40:42 Z
+date: 2008-10-31 00:40:42 -05:00
 tags:
 - Blog
 - yo
