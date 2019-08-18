@@ -4,7 +4,7 @@ date: 2019-08-17 18:22:00 -05:00
 layout: project
 ---
 
-Existe una firmware para Printrboard que segun entiendo mejora por mucho la calidad y velocidad de impresión de todos los robots cartesianos que la han usado.
+Existe un firmware para [Printrboard ](https://reprap.org/wiki/Printrboard)que, segun entiendo, mejora por mucho la calidad y velocidad de impresión de todos los robots cartesianos que la han usado.
 
 Usualmente el Printrboard Rev F6, que es el que posee la Printrbot, corre un firmware llamado Marlin. Este recibe gCode que los traduce en movimientos de cada eje donde hay un motor, X, Y, Z, y Cada mm que debe salir por el extrusor.
 
@@ -17,3 +17,13 @@ En pocas palabras, Klipper hace mas rápida y precisa la impresión, de acuerdo 
 
 El problema que encontré es que yo soy usualmente el quien busca tutorial;es y no quien los escribe, y en este caso, escribiré como lo hice, porque si lo tengo que volver a buscar y compilar la información de nuevo, me voy a volver loco.
 
+
+En primera instancia encontré las instrucciones obviamente en el [sitio del proyecto](https://www.klipper3d.org/Installation.html)
+
+- Lo primero es bajarse [OctoPi](https://github.com/guysoft/OctoPi), que es una version del Linux (Debian) para Raspberry Pi llamada Raspbian, que viene preinstalada con [Octoprint](https://octoprint.org/), proyecto de codigo abierto que fue creado por la brillante mente de [Gina Häußge](https://octoprint.org/).
+
+-Lo siguiente es conectarse al Raspberry por SSH, y pegarle estos comandos:
+```
+git clone https://github.com/KevinOConnor/klipper
+./klipper/scripts/install-octopi.sh
+```
