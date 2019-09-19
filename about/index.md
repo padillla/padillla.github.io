@@ -23,7 +23,7 @@ Among many things I love doing, [I try to bike at least 100km every week](https:
 [I also do some 3d printing and robotics as a hobby.]({{site.baseurl}}/3Dprint/)
 If ever try doing some sort of art or music again, I might post it. Be afraid.
 But also be aware that I procrastinate. This site holds me accountable.
-I am also an electrician, a computer technician and builder, I creste industrial automation systems, robotics and I'm very efficient at changing lightbulbs.
+I am also an electrician, a computer technician and builder, I build industrial automation control systems, I program robots and I'm very efficient at changing lightbulbs.
 
 ### Some online presence
 
