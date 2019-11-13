@@ -1,6 +1,16 @@
 ---
 title: Abierto Fofo.works
 date: 2019-11-12 16:07:00 -06:00
+categories:
+- development
+- pasion
+- 3d printing
+- business
+tags:
+- impresion3d
+- 3Dprinting
+- resina
+- EPAX
 ---
 
 Han pasado unos meses desde que moví mi propio mundo en la dirección que quiero.
