@@ -1,6 +1,6 @@
 ---
 title: Abierto Fofo.works
-date: 2019-11-12 16:07:00 -06:00
+date: 2019-10-02 16:07:00 -05:00
 categories:
 - development
 - pasion
