@@ -18,7 +18,7 @@ He tenido años de comodidad y por esto en cierta forma me estanque , deje de mo
 
 Entonces me he dedicado a aprender sobre otras tecnicas de impresion, en particular la de resina fotosensible, y tras haberme endeudado un poquito, me traje una EPAX X1 y varios litros de la mencionada resina.
 
-![20191016_100730.jpg](/uploads/20191016_100730.jpg)
+![IMG-20191017-WA0021.jpeg](/uploads/IMG-20191017-WA0021.jpeg)
 
 Desde entonces he pasado un tiempo perfeccionando la técnica de impresión, porque mi primera impresión fue un éxito, tuve varios fallos después debido a posición o mala colocación de soportes que causaba que se echara a perder la figura.
 
@@ -43,8 +43,6 @@ Le aumente la fuente de poder a 600w y aun asi no soporto el nuevo calentador, p
 Su superficie de impresión aun considero que es una de las mejores inversiones que he hecho, es increíble lo mucho que sostiene la pieza.
 
 ![IMG_20191020_193838_305.jpg](/uploads/IMG_20191020_193838_305.jpg)
-
-![20191109_002357.jpg](/uploads/20191109_002357.jpg)
 
 Todo esto viene al hecho de ahora tengo 3 maquinas de impresión 3D sumamente robustas y confiables, por lo que creo que ya puedo ofrecer servicios de manufactura por encargo con entrega a domicilio.
 
