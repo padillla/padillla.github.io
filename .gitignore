@@ -6,3 +6,5 @@ _site/
 *.sublime-workspace
 .editorconfig
 .c9/
+*.ssh
+*.pem
