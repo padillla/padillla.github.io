@@ -12,7 +12,7 @@ Hi, I'm **Rodolfo Padilla**. I'm a student at
 include, computer science, sociology and others.
 
 
-Currently working as an Systems technician at [Transperfect](http://www.transperfect.com/).
+Currently working as a Systems technician and 3D printer technician in my own small shop.
 
 I like to be constanly learning. Since I was a kid my passion is deconstruct and rebuild things from scratch. Usually leaving some screws out. I used to explode dead electronic cards for the mayhem and the toxic smoke they produce, just for the fun of wearing gasmasks.
 
@@ -20,10 +20,10 @@ This blog is a central place for me to publish my ideas on programming, sociolog
 In the very unlikely case that the Internet cares about my personal development, I might post some progress in some projects I am working on.
 
 Among many things I love doing, [I try to bike at least 100km every week](https://www.strava.com/athletes/11810919), and plan to improve as long as time allows it. Follow me on strava. Its very rewarding.
-[I also do some 3d printing and robotics as a hobby.]({{site.baseurl}}/3Dprint/)
+I also do some 3d printing and robotics.
 If ever try doing some sort of art or music again, I might post it. Be afraid.
 But also be aware that I procrastinate. This site holds me accountable.
-I am also an electrician, a computer technician and builder, I build industrial automation control systems, I program robots and I'm very efficient at changing lightbulbs.
+I am also a licensed electrician in Costa Rica, a computer builder, destroyer and repairer, I studied industrial automation control systems, I like to program robots and I'm very efficient at changing lightbulbs.
 
 ### Some online presence
 
@@ -32,6 +32,8 @@ I am also an electrician, a computer technician and builder, I build industrial 
 * [LinkdedIn](https://cr.linkedin.com/in/rodolfo-padilla-ruiz-6836aa53)
 * [Google+](https://plus.google.com/113901489533035852987/)
 * [YouTube](https://www.youtube.com/channel/UCo2IbnJdJES5pUYX4kKPWBg)
+* [My Shop](https://shop.fofo.works)
+
 
 ### What I am reading now
 
@@ -48,4 +50,4 @@ center { display: none;}
 </style>
 
 <script src="https://www.goodreads.com/review/custom_widget/15373400..?cover_position=left&cover_size=small&num_books=5&order=a&shelf=currently-reading&show_author=1&show_cover=1&show_rating=0&show_review=0&show_tags=0&show_title=1&sort=date_added&widget_bg_color=FFFFFF&widget_bg_transparent=&widget_border_width=1&widget_id=1402980441&widget_text_color=000000&widget_title_size=small&widget_width=medium" type="text/javascript" charset="utf-8"></script>
-#	Thanks for passing by.
+#	 [Thanks for passing by, you may contact me here.]({{site.url}}/contact)

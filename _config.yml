@@ -1,6 +1,6 @@
 ---
 title: Rodolfo Padilla
-timezone: America/Chicago
+timezone: America/Costa_Rica
 collections:
   posts:
     title: Posts
@@ -38,7 +38,7 @@ facebook: Fofoworks-114238016661786
 github-url: padillla
 linkedin: r-padilla-ruiz
 instagram: fofopadillla
-gems:
+plugins:
 - jekyll-mentions
 - jekyll-feed
 - jekyll-sitemap
@@ -58,3 +58,6 @@ exclude:
 - CNAME
 - LICENSE
 - Rakefile
+webrick:
+  headers:
+    Access-Control-Allow-Origin: "*"

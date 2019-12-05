@@ -94,7 +94,7 @@
 		        {% else %}
 		        {% assign domain = site.url %}
 		    {% endif %}
-		    <li><a href="{{ domain }}{{ link.url }}" {% if link.url contains 'http' %}target="_blank" rel="noopener noreferrer"{% endif %}>{{ link.title }}</a></li>
+		    <li><a href="{{ domain }}{{ link.url }}" {% if link.url contains 'http' %}target="_self" {% endif %}>{{ link.title }}</a></li>
 		  {% endfor %}
             <li><a href="{{ site.url }}/contact">Contact</a></li>
             <li><span > &copy; {{ site.time | date: '%Y' }}</span></li>
