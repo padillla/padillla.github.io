@@ -11,6 +11,8 @@ tags:
 - 3Dprinting
 - resina
 - EPAX
+layout: post
+project: true
 ---
 
 Han pasado unos meses desde que moví mi propio mundo en la dirección que quiero.
