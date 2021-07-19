@@ -16,7 +16,7 @@ headshot: "../assets/img/headshot.jpg"
 background: assets/img/tile.png
 tiled_bg: true
 locale: en_US
-url: https://fofopadilla.com
+url: fofopadilla.com
 permalink: "/:title/"
 markdown: kramdown
 highlighter: rouge
