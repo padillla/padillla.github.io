@@ -12,7 +12,7 @@ Hi, I'm **Rodolfo Padilla**. I'm a student at
 include, computer science, sociology and others.
 
 
-Currently working as a Systems technician and 3D printer technician in my own small shop.
+Currently working as an independent systems technician and 3D printer support for [Prusa Research](https://prusa3d.com).
 
 I like to be constanly learning. Since I was a kid my passion is deconstruct and rebuild things from scratch. Usually leaving some screws out. I used to explode dead electronic cards for the mayhem and the toxic smoke they produce, just for the fun of wearing gasmasks.
 
@@ -22,8 +22,8 @@ In the very unlikely case that the Internet cares about my personal development,
 Among many things I love doing, [I try to bike at least 100km every week](https://www.strava.com/athletes/11810919), and plan to improve as long as time allows it. Follow me on strava. Its very rewarding.
 I also do some 3d printing and robotics.
 If ever try doing some sort of art or music again, I might post it. Be afraid.
-But also be aware that I procrastinate. This site holds me accountable.
-I am also a licensed electrician in Costa Rica, a computer builder, destroyer and repairer, I studied industrial automation control systems, I like to program robots and I'm very efficient at changing lightbulbs.
+I procrastinate. This site holds me accountable in a way.
+I am a licensed electrician in Costa Rica, a computer builder, destroyer and repairer, I studied industrial automation control systems, I like to program robots and I'm very efficient at changing lightbulbs.
 
 ### Some online presence
 
@@ -32,7 +32,7 @@ I am also a licensed electrician in Costa Rica, a computer builder, destroyer an
 * [LinkdedIn](https://cr.linkedin.com/in/rodolfo-padilla-ruiz-6836aa53)
 * [Google+](https://plus.google.com/113901489533035852987/)
 * [YouTube](https://www.youtube.com/channel/UCo2IbnJdJES5pUYX4kKPWBg)
-* [My Shop](https://shop.fofo.works)
+* [My Shop](https://shop.fofopadilla.com)
 
 
 ### What I am reading now
