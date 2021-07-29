@@ -6,13 +6,10 @@ comments: false
 
 <img src="{{ site.headshot }}" class="img-circle zoombtn animated fadeIn">
 
-Hi, I'm **Rodolfo Padilla**. I'm a student at
-[UNED](http://www.uned.ac.cr/) in the
-[ECEN](http://www.uned.ac.cr/ecen/) department, where my studies
-include, computer science, sociology and others.
+Hi, I'm **Rodolfo**.
+Currently working as an independent automation technician and 3D printer support for [Prusa Research](https://prusa3d.com).
 
-
-Currently working as an independent systems technician and 3D printer support for [Prusa Research](https://prusa3d.com).
+I'm also working towards a Engineering degree at the [Open University](https://www.open.ac.uk/).
 
 I like to be constanly learning. Since I was a kid my passion is deconstruct and rebuild things from scratch. Usually leaving some screws out. I used to explode dead electronic cards for the mayhem and the toxic smoke they produce, just for the fun of wearing gasmasks.
 
@@ -23,7 +20,7 @@ Among many things I love doing, [I try to bike at least 100km every week](https:
 I also do some 3d printing and robotics.
 If ever try doing some sort of art or music again, I might post it. Be afraid.
 I procrastinate. This site holds me accountable in a way.
-I am a licensed electrician in Costa Rica, a computer builder, destroyer and repairer, I studied industrial automation control systems, I like to program robots and I'm very efficient at changing lightbulbs.
+I am profession electrician in Costa Rica, a computer builder, destroyer and repairer, I studied industrial automation, I like to program robots and I'm very efficient at changing lightbulbs.
 
 ### Some online presence
 
@@ -32,7 +29,6 @@ I am a licensed electrician in Costa Rica, a computer builder, destroyer and rep
 * [LinkdedIn](https://cr.linkedin.com/in/rodolfo-padilla-ruiz-6836aa53)
 * [Google+](https://plus.google.com/113901489533035852987/)
 * [YouTube](https://www.youtube.com/channel/UCo2IbnJdJES5pUYX4kKPWBg)
-* [My Shop](https://shop.fofopadilla.com)
 
 
 ### What I am reading now
@@ -50,4 +46,4 @@ center { display: none;}
 </style>
 
 <script src="https://www.goodreads.com/review/custom_widget/15373400..?cover_position=left&cover_size=small&num_books=5&order=a&shelf=currently-reading&show_author=1&show_cover=1&show_rating=0&show_review=0&show_tags=0&show_title=1&sort=date_added&widget_bg_color=FFFFFF&widget_bg_transparent=&widget_border_width=1&widget_id=1402980441&widget_text_color=000000&widget_title_size=small&widget_width=medium" type="text/javascript" charset="utf-8"></script>
-#	 [Thanks for passing by, you may contact me here.]({{site.url}}/contact)
+ [Thanks for passing by, you may contact me here.]({{site.url}}/contact)
