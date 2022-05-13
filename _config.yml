@@ -16,7 +16,7 @@ headshot: "../assets/img/headshot.jpg"
 background: assets/img/tile.png
 tiled_bg: true
 locale: en_US
-url: https://fofopadilla.com
+url: https://fofo.works
 permalink: "/:title/"
 markdown: kramdown
 highlighter: rouge
@@ -37,7 +37,7 @@ twitter: padillla
 facebook: Fofoworks-114238016661786
 github-url: padillla
 linkedin: r-padilla-ruiz
-instagram: fofopadillla
+instagram: fofo.works
 plugins:
 - jekyll-mentions
 - jekyll-feed
