@@ -1,6 +1,6 @@
 ---
 title: Quiero ser Jirafa
-date: 2008-11-06 16:12:06 -06:00
+date: 2008-11-06 11:12:06 -11:00
 tags:
 - Jirafas
 - Tiempo

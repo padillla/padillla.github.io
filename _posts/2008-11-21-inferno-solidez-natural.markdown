@@ -1,6 +1,6 @@
 ---
 title: Inferno, solidez nacional
-date: 2008-11-22 01:04:43 -06:00
+date: 2008-11-21 20:04:43 -11:00
 tags:
 - Inferno
 - Solido

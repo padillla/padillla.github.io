@@ -1,6 +1,6 @@
 ---
 title: My take on global warming
-date: 2018-11-11 10:26:00 -06:00
+date: 2018-11-11 05:26:00 -11:00
 categories:
 - Opinion
 - Loose_Thoughts

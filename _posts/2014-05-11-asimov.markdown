@@ -1,6 +1,6 @@
 ---
 title: Asimov
-date: 2014-05-11 13:09:35 -05:00
+date: 2014-05-11 07:09:35 -11:00
 permalink: asimov
 tags:
 - Asimov

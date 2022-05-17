@@ -1,6 +1,6 @@
 ---
 title: Fama efimera
-date: 2008-11-02 19:55:09 -06:00
+date: 2008-11-02 14:55:09 -11:00
 tags:
 - amigos
 - Fama
