@@ -1,0 +1,11 @@
+_site/
+.sass-cache/
+.jekyll-metadata
+.jekyll-cache
+.sublime-project
+.sublime-workspace
+*.sublime-workspace
+.editorconfig
+.c9/
+*.ssh
+*.pem
