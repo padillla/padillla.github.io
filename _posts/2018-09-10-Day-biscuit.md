@@ -1,6 +1,6 @@
 ---
 title: Day Biscuit
-date: 2018-09-10 19:00:00 -05:00
+date: 2018-09-10 13:00:00 -11:00
 ---
 
 Hoy aprendí por enésima vez que aprender es un proceso que nunca acaba. Por esto he decidido que como minimo escribire 1 lección diaria, por banal, profunda, o absurda que sea. 

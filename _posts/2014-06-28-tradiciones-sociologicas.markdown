@@ -1,6 +1,6 @@
 ---
 title: Tradiciones sociológicas
-date: 2014-06-28 16:31:00 -05:00
+date: 2014-06-28 10:31:00 -11:00
 author: Rodolfo Padilla
 layout: post
 ---

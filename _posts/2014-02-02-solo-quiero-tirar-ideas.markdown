@@ -1,6 +1,6 @@
 ---
 title: Vote por el espacio.
-date: 2014-02-02 18:33:41 -06:00
+date: 2014-02-02 13:33:41 -11:00
 author: rodolfopr338
 comments: true
 layout: post

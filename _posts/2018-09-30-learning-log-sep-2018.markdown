@@ -1,6 +1,6 @@
 ---
 title: Learning log - Sep 2018
-date: 2018-09-30 11:10:00 -05:00
+date: 2018-09-30 05:10:00 -11:00
 tags:
 - learning
 - aws

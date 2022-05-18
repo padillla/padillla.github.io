@@ -1,6 +1,6 @@
 ---
 title: Este paraiso...(?)
-date: 2008-10-31 04:13:47 -05:00
+date: 2008-10-30 22:13:47 -11:00
 tags:
 - Berreo
 - Costa Rica

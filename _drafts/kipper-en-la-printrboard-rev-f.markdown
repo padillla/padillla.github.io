@@ -1,6 +1,6 @@
 ---
 title: Kipper en la PrintrBoard Rev F
-date: 2019-08-17 18:22:00 -05:00
+date: 2019-08-17 12:22:00 -11:00
 layout: project
 ---
 

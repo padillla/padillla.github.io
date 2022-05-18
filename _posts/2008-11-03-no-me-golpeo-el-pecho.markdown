@@ -1,6 +1,6 @@
 ---
 title: No me golpeo el pecho
-date: 2008-11-03 15:00:31 -06:00
+date: 2008-11-03 10:00:31 -11:00
 published: false
 tags:
 - Noticias

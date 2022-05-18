@@ -1,6 +1,6 @@
 ---
 title: Reality check enero 2019
-date: 2019-01-26 22:06:00 -06:00
+date: 2019-01-26 17:06:00 -11:00
 categories:
 - personal
 - development
