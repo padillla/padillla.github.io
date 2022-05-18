@@ -1,0 +1,63 @@
+---
+title: Rodolfo Padilla
+timezone: Pacific/Pago_Pago
+collections:
+  posts:
+    title: Posts
+    output: true
+  uploads:
+    title: Uploads
+    output: true
+description: Fofo's personal site
+reading_time: false
+words_per_minute: 200
+logo: "../assets/img/logo.jpg"
+headshot: "../assets/img/headshot.jpg"
+background: assets/img/tile.png
+tiled_bg: true
+locale: en_US
+url: https://fofo.works
+permalink: "/:title/"
+markdown: kramdown
+highlighter: rouge
+kramdown:
+  auto_ids: true
+  footnote_nr: 1
+  entity_output: as_char
+  toc_levels: 1..6
+  enable_coderay: false
+mathjax: true
+sass:
+  sass_dir: _sass
+  style: compressed
+disqus_shortname: padillla
+google:
+  analytics: UA-42515809-1
+twitter: 
+facebook: Fofoworks-114238016661786
+github-url: padillla
+linkedin: r-padilla-ruiz
+instagram: fofo.works
+plugins:
+- jekyll-mentions
+- jekyll-feed
+- jekyll-sitemap
+- jekyll-gist
+jekyll-mentions:
+  base_url: https://github.com
+exclude:
+- README.md
+- Gemfile
+- Gemfile.lock
+- node_modules
+- gulpfile.js
+- package.json
+- _site
+- src
+- vendor
+- CNAME
+- LICENSE
+- Rakefile
+webrick:
+  headers:
+    Access-Control-Allow-Origin: "*"
