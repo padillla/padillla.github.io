@@ -1,0 +1,17 @@
+---
+title: "---"
+date: 2019-08-29 16:40:00 -11:00
+categories:
+- study
+- development
+tags:
+- math
+- uned
+layout: post
+---
+
+Siempre he sido muy básico en matemática.
+Hoy matricule un curso de matemática. 
+Espero no dejarlo botado de nuevo, como hago con muchas cosas. 
+
+Si no lo dejo, pues me sentiré muy satisfecho, porque soy pésimo estudiante y solo he tenido suerte con especializarme en algunos trabajos.
